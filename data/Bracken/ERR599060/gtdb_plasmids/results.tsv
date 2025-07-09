@@ -1,0 +1,78 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Salinimonas iocasae	2572577	S	4641	2595	7236	0.18911
+Alteromonas sp. RKMC-009	2267264	S	62	0	62	0.00162
+Pseudoalteromonas shioyasakiensis	1190813	S	1351	0	1351	0.03531
+Pseudoalteromonas arctica	394751	S	408	207	615	0.01607
+Pseudoalteromonas sp. NC201	1514074	S	103	0	103	0.00269
+Shewanella aestuarii	1028752	S	256	407	663	0.01733
+Shewanella sp. ANA-3	94122	S	177	475	652	0.01704
+Marinobacter sp. NP-4(2019)	2488665	S	1910	0	1910	0.04992
+Marinobacter sp. JH2	2547598	S	12	0	12	0.00031
+Marinobacter adhaerens	1033846	S	181	553	734	0.01918
+Pseudomonas putida	303	S	371	341	712	0.01861
+Pseudomonas resinovorans	53412	S	85	15	100	0.00261
+Stutzerimonas stutzeri	316	S	14	9	23	0.00060
+Halomonas ventosae	229007	S	741	2478	3219	0.08413
+Halomonas sulfidaeris	115553	S	304	232	536	0.01401
+Vibrio tubiashii	29498	S	870	601	1471	0.03844
+Vibrio rumoiensis	76258	S	101	388	489	0.01278
+Proteus sp. ZN5	2697019	S	305	5329	5634	0.14724
+Klebsiella sp. WP3-W18-ESBL-02	2675710	S	58	379	437	0.01142
+Citrobacter telavivensis	2653932	S	12	33	45	0.00118
+Acinetobacter piscicola	2006115	S	29	76	105	0.00274
+Psychrobacter sp. 4Dc	888437	S	14	64	78	0.00204
+Salipiger profundus	1229727	S	484	625	1109	0.02898
+Salipiger abyssi	1250539	S	259	180	439	0.01147
+Sulfitobacter sp. D7	1968541	S	262	275	537	0.01403
+Sulfitobacter sp. THAF37	2587855	S	80	159	239	0.00625
+Sulfitobacter alexandrii	1917485	S	59	183	242	0.00632
+Roseovarius mucosus	215743	S	179	1240	1419	0.03708
+Roseovarius indicus	540747	S	81	163	244	0.00638
+Sagittula sp. P11	2009329	S	59	148	207	0.00541
+Ruegeria sp. THAF33	2587853	S	31	11	42	0.00110
+Ruegeria sp. TM1040	292414	S	28	5	33	0.00086
+Pseudosulfitobacter pseudonitzschiae	1402135	S	58	33	91	0.00238
+Celeribacter indicus	1208324	S	38	195	233	0.00609
+Yangia pacifica	311180	S	39	1	40	0.00105
+Octadecabacter sp. SW4	2602067	S	30	55	85	0.00222
+Phaeobacter gallaeciensis	60890	S	20	27	47	0.00123
+Paracoccaceae bacterium	1904441	S	255	377	632	0.01652
+Pacificitalea manganoxidans	1411902	S	66	109	175	0.00457
+Paracoccus zhejiangensis	1077935	S	43	13	56	0.00146
+Thioclava nitratireducens	1915078	S	18	26	44	0.00115
+Thioclava electrotropha	1549850	S	17	0	17	0.00044
+Sphingobium sp. CAP-1	2676077	S	31	201	232	0.00606
+Sphingobium sp. TKS	1315974	S	27	120	147	0.00384
+Sphingobium sp. RAC03	1843368	S	19	7	26	0.00068
+Sphingobium cloacae	120107	S	35	184	219	0.00572
+Sphingobium baderi	1332080	S	25	83	108	0.00282
+Sphingobium amiense	135719	S	15	115	130	0.00340
+Novosphingobium resinovorum	158500	S	92	63	155	0.00405
+Novosphingobium sp. EMRT-2	2571749	S	30	32	62	0.00162
+Novosphingobium pentaromativorans	205844	S	14	7	21	0.00055
+Sphingopyxis macrogoltabida	33050	S	34	51	85	0.00222
+Sphingopyxis sp. FD7	1914525	S	16	15	31	0.00081
+Sphingopyxis sp. 113P3	292913	S	14	11	25	0.00065
+Sphingomonas sp. IC081	304378	S	15	21	36	0.00094
+Sphingomonas sanxanigenens	397260	S	24	56	80	0.00209
+Rhizorhabdus dicambivorans	1850238	S	20	326	346	0.00904
+Aurantiacibacter atlanticus	1648404	S	498	472	970	0.02535
+Porphyrobacter sp. YT40	2547601	S	104	148	252	0.00659
+Croceicoccus marinus	450378	S	93	14	107	0.00280
+Roseibium aggregatum	187304	S	1286	39	1325	0.03463
+Roseibium alexandrii	388408	S	26	3	29	0.00076
+Martelella mediterranea	293089	S	60	306	366	0.00957
+Martelella sp. AD-3	686597	S	13	185	198	0.00517
+Methylobacterium brachiatum	269660	S	48	21	69	0.00180
+Shinella sp. PSBB067	2715959	S	15	5	20	0.00052
+Brucella anthropi	529	S	15	9	24	0.00063
+Tistrella mobilis	171437	S	102	10	112	0.00293
+Variovorax paradoxus	34073	S	345	6	351	0.00917
+Alicycliphilus denitrificans	179636	S	17	6	23	0.00060
+Cupriavidus sp. EM10	2839983	S	54	19	73	0.00191
+Cupriavidus basilensis	68895	S	39	34	73	0.00191
+Cupriavidus metallidurans	119219	S	22	188	210	0.00549
+Microbacterium sediminis	904291	S	41	22	63	0.00165
+Microbacterium paraoxydans	199592	S	38	29	67	0.00175
+Mycolicibacterium poriferae	39694	S	34	19	53	0.00139
+Mycolicibacterium chubuense	1800	S	13	7	20	0.00052

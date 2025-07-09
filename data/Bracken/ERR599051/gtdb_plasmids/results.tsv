@@ -1,0 +1,78 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Salinimonas iocasae	2572577	S	4610	2600	7210	0.18740
+Alteromonas sp. RKMC-009	2267264	S	83	0	83	0.00216
+Pseudoalteromonas shioyasakiensis	1190813	S	1370	0	1370	0.03561
+Pseudoalteromonas arctica	394751	S	400	211	611	0.01588
+Pseudoalteromonas sp. NC201	1514074	S	101	0	101	0.00263
+Shewanella aestuarii	1028752	S	270	406	676	0.01757
+Shewanella sp. ANA-3	94122	S	178	477	655	0.01702
+Marinobacter sp. NP-4(2019)	2488665	S	2000	0	2000	0.05198
+Marinobacter sp. JH2	2547598	S	18	0	18	0.00047
+Marinobacter adhaerens	1033846	S	154	467	621	0.01614
+Pseudomonas putida	303	S	378	350	728	0.01892
+Pseudomonas resinovorans	53412	S	83	15	98	0.00255
+Halomonas ventosae	229007	S	760	2402	3162	0.08219
+Halomonas sulfidaeris	115553	S	291	225	516	0.01341
+Vibrio tubiashii	29498	S	958	632	1590	0.04133
+Vibrio rumoiensis	76258	S	131	502	633	0.01645
+Proteus sp. ZN5	2697019	S	283	4884	5167	0.13430
+Klebsiella sp. WP3-W18-ESBL-02	2675710	S	71	447	518	0.01346
+Enterobacter cloacae	550	S	12	157	169	0.00439
+Citrobacter telavivensis	2653932	S	17	44	61	0.00159
+Escherichia fergusonii	564	S	17	278	295	0.00767
+Acinetobacter piscicola	2006115	S	18	62	80	0.00208
+Acinetobacter radioresistens	40216	S	13	14	27	0.00070
+Salipiger profundus	1229727	S	468	593	1061	0.02758
+Salipiger abyssi	1250539	S	259	188	447	0.01162
+Sulfitobacter sp. D7	1968541	S	226	238	464	0.01206
+Sulfitobacter sp. THAF37	2587855	S	76	148	224	0.00582
+Sulfitobacter alexandrii	1917485	S	48	147	195	0.00507
+Roseovarius mucosus	215743	S	210	1363	1573	0.04088
+Roseovarius indicus	540747	S	76	148	224	0.00582
+Sagittula sp. P11	2009329	S	65	161	226	0.00587
+Ruegeria sp. THAF33	2587853	S	29	10	39	0.00101
+Ruegeria sp. TM1040	292414	S	19	3	22	0.00057
+Pseudosulfitobacter pseudonitzschiae	1402135	S	43	24	67	0.00174
+Celeribacter indicus	1208324	S	34	168	202	0.00525
+Yangia pacifica	311180	S	39	1	40	0.00104
+Octadecabacter sp. SW4	2602067	S	35	64	99	0.00257
+Paracoccaceae bacterium	1904441	S	272	399	671	0.01744
+Pacificitalea manganoxidans	1411902	S	66	97	163	0.00424
+Paracoccus zhejiangensis	1077935	S	52	12	64	0.00166
+Thioclava electrotropha	1549850	S	16	0	16	0.00042
+Pseudohalocynthiibacter aestuariivivens	1591409	S	15	12	27	0.00070
+Gemmobacter fulva	2840474	S	12	1	13	0.00034
+Sphingobium sp. RAC03	1843368	S	24	10	34	0.00088
+Sphingobium sp. CAP-1	2676077	S	23	155	178	0.00463
+Sphingobium sp. TKS	1315974	S	21	100	121	0.00314
+Sphingobium baderi	1332080	S	30	103	133	0.00346
+Sphingobium cloacae	120107	S	27	149	176	0.00457
+Novosphingobium resinovorum	158500	S	120	85	205	0.00533
+Novosphingobium sp. EMRT-2	2571749	S	34	31	65	0.00169
+Novosphingobium pentaromativorans	205844	S	24	13	37	0.00096
+Sphingopyxis macrogoltabida	33050	S	50	73	123	0.00320
+Sphingopyxis sp. 113P3	292913	S	19	16	35	0.00091
+Sphingopyxis sp. FD7	1914525	S	12	9	21	0.00055
+Sphingopyxis alaskensis	117207	S	14	21	35	0.00091
+Sphingomonas sanxanigenens	397260	S	25	56	81	0.00211
+Rhizorhabdus dicambivorans	1850238	S	27	429	456	0.01185
+Aurantiacibacter atlanticus	1648404	S	544	515	1059	0.02753
+Porphyrobacter sp. YT40	2547601	S	117	170	287	0.00746
+Croceicoccus marinus	450378	S	92	14	106	0.00276
+Roseibium aggregatum	187304	S	1249	36	1285	0.03340
+Roseibium alexandrii	388408	S	35	5	40	0.00104
+Martelella mediterranea	293089	S	52	253	305	0.00793
+Martelella sp. AD-3	686597	S	19	238	257	0.00668
+Methylobacterium brachiatum	269660	S	52	26	78	0.00203
+Methylorubrum populi	223967	S	12	23	35	0.00091
+Shinella sp. PSBB067	2715959	S	15	4	19	0.00049
+Brucella anthropi	529	S	18	20	38	0.00099
+Tistrella mobilis	171437	S	101	9	110	0.00286
+Variovorax paradoxus	34073	S	315	3	318	0.00827
+Alicycliphilus denitrificans	179636	S	27	10	37	0.00096
+Cupriavidus sp. EM10	2839983	S	44	21	65	0.00169
+Cupriavidus basilensis	68895	S	32	34	66	0.00172
+Cupriavidus metallidurans	119219	S	14	166	180	0.00468
+Microbacterium sediminis	904291	S	48	28	76	0.00198
+Microbacterium paraoxydans	199592	S	41	35	76	0.00198
+Mycolicibacterium poriferae	39694	S	48	27	75	0.00195

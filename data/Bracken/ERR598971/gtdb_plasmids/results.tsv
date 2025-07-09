@@ -1,0 +1,116 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Salinimonas iocasae	2572577	S	27201	25299	52500	0.18964
+Alteromonas sp. RKMC-009	2267264	S	3453	0	3453	0.01247
+Alteromonas stellipolaris	233316	S	19	6	25	0.00009
+Hydrocarboniclastica marina	2259620	S	31	0	31	0.00011
+Paraglaciecola mesophila	197222	S	13	0	13	0.00005
+Pseudoalteromonas shioyasakiensis	1190813	S	10568	0	10568	0.03817
+Pseudoalteromonas arctica	394751	S	2565	2064	4629	0.01672
+Pseudoalteromonas sp. NC201	1514074	S	1147	3	1150	0.00415
+Pseudoalteromonas carrageenovora	227	S	49	0	49	0.00018
+Pseudoalteromonas xiamenensis	882626	S	40	0	40	0.00014
+Shewanella aestuarii	1028752	S	2383	4197	6580	0.02377
+Shewanella sp. ANA-3	94122	S	916	3919	4835	0.01747
+Halomonas ventosae	229007	S	3845	12672	16517	0.05966
+Halomonas sulfidaeris	115553	S	1947	1656	3603	0.01301
+Marinobacter sp. NP-4(2019)	2488665	S	5905	0	5905	0.02133
+Marinobacter sp. JH2	2547598	S	183	0	183	0.00066
+Marinobacter adhaerens	1033846	S	23	121	144	0.00052
+Pseudomonas putida	303	S	1274	1631	2905	0.01049
+Pseudomonas resinovorans	53412	S	373	78	451	0.00163
+Pseudomonas cerasi	1583341	S	17	0	17	0.00006
+Stutzerimonas stutzeri	316	S	208	143	351	0.00127
+Proteus sp. ZN5	2697019	S	1568	32080	33648	0.12154
+Morganella morganii	582	S	34	0	34	0.00012
+Providencia vermicola	333965	S	17	571	588	0.00212
+Raoultella electrica	1259973	S	508	2182	2690	0.00972
+Klebsiella sp. WP3-W18-ESBL-02	2675710	S	16	122	138	0.00050
+Enterobacter cloacae	550	S	178	2477	2655	0.00959
+Enterobacter cloacae complex sp. ECNIH7	1915310	S	103	629	732	0.00264
+Escherichia fergusonii	564	S	191	3419	3610	0.01304
+Citrobacter telavivensis	2653932	S	90	283	373	0.00135
+Vibrio tubiashii	29498	S	2298	1972	4270	0.01542
+Vibrio rumoiensis	76258	S	1525	8983	10508	0.03796
+Acinetobacter piscicola	2006115	S	229	588	817	0.00295
+Acinetobacter sp. 10FS3-1	2563897	S	76	96	172	0.00062
+Psychrobacter sp. 4Dc	888437	S	67	202	269	0.00097
+Psychrobacter sp. 4Bb	888436	S	26	23	49	0.00018
+Psychrobacter cryohalolentis	330922	S	15	2	17	0.00006
+Moraxella osloensis	34062	S	29	7	36	0.00013
+Stenotrophomonas rhizophila	216778	S	35	91	126	0.00046
+Legionella adelaidensis	45056	S	34	0	34	0.00012
+Methylophaga frappieri	754477	S	39	7	46	0.00017
+Aurantiacibacter atlanticus	1648404	S	27285	20768	48053	0.17358
+Croceicoccus marinus	450378	S	4541	572	5113	0.01847
+Porphyrobacter sp. YT40	2547601	S	1837	1941	3778	0.01365
+Sphingobium sp. TKS	1315974	S	4807	7257	12064	0.04358
+Sphingobium sp. SCG-1	2072936	S	36	0	36	0.00013
+Sphingobium sp. Cam5-1	2789327	S	24	13	37	0.00013
+Sphingobium sp. RAC03	1843368	S	21	2	23	0.00008
+Sphingobium baderi	1332080	S	2771	3493	6264	0.02263
+Sphingobium cloacae	120107	S	104	158	262	0.00095
+Sphingobium herbicidovorans	76947	S	66	31	97	0.00035
+Sphingobium amiense	135719	S	40	50	90	0.00033
+Sphingomonas sanxanigenens	397260	S	2665	560	3225	0.01165
+Sphingomonas sp. FARSPH	2219696	S	110	155	265	0.00096
+Sphingomonas sp. IC081	304378	S	107	46	153	0.00055
+Sphingomonas sp. NBWT7	2596913	S	16	34	50	0.00018
+Rhizorhabdus dicambivorans	1850238	S	2074	3205	5279	0.01907
+Sphingopyxis macrogoltabida	33050	S	1671	940	2611	0.00943
+Sphingopyxis sp. 113P3	292913	S	184	58	242	0.00087
+Sphingopyxis sp. FD7	1914525	S	16	3	19	0.00007
+Sphingopyxis alaskensis	117207	S	49	7	56	0.00020
+Sphingopyxis lindanitolerans	2054227	S	18	133	151	0.00055
+Novosphingobium resinovorum	158500	S	297	61	358	0.00129
+Novosphingobium sp. EMRT-2	2571749	S	53	16	69	0.00025
+Novosphingobium pentaromativorans	205844	S	47	7	54	0.00020
+Novosphingobium decolorationis	2698673	S	15	46	61	0.00022
+Salipiger profundus	1229727	S	1294	1504	2798	0.01011
+Salipiger abyssi	1250539	S	265	157	422	0.00152
+Salipiger sp. CCB-MM3	1792508	S	17	0	17	0.00006
+Sulfitobacter sp. D7	1968541	S	318	268	586	0.00212
+Sulfitobacter sp. THAF37	2587855	S	37	66	103	0.00037
+Sulfitobacter alexandrii	1917485	S	34	89	123	0.00044
+Sulfitobacter mediterraneus	83219	S	12	9	21	0.00008
+Roseovarius indicus	540747	S	97	170	267	0.00096
+Roseovarius mucosus	215743	S	63	419	482	0.00174
+Sagittula sp. P11	2009329	S	149	312	461	0.00167
+Phaeobacter porticola	1844006	S	24	2	26	0.00009
+Phaeobacter gallaeciensis	60890	S	19	22	41	0.00015
+Pseudosulfitobacter pseudonitzschiae	1402135	S	33	15	48	0.00017
+Celeribacter indicus	1208324	S	16	78	94	0.00034
+Celeribacter baekdonensis	875171	S	14	28	42	0.00015
+Octadecabacter sp. SW4	2602067	S	23	34	57	0.00021
+Yangia pacifica	311180	S	22	0	22	0.00008
+Dinoroseobacter shibae	215813	S	16	45	61	0.00022
+Paracoccaceae bacterium	1904441	S	505	640	1145	0.00414
+Pacificitalea manganoxidans	1411902	S	339	289	628	0.00227
+Gemmobacter fulva	2840474	S	74	8	82	0.00030
+Paracoccus zhejiangensis	1077935	S	36	21	57	0.00021
+Pseudohalocynthiibacter aestuariivivens	1591409	S	31	24	55	0.00020
+Pukyongiella litopenaei	2605946	S	25	51	76	0.00027
+Rhodovulum sp. P5	1564506	S	17	5	22	0.00008
+Falsirhodobacter sp. PG104	2692330	S	12	0	12	0.00004
+Roseibium aggregatum	187304	S	985	26	1011	0.00365
+Roseibium alexandrii	388408	S	13	1	14	0.00005
+Martelella mediterranea	293089	S	213	1007	1220	0.00441
+Martelella sp. AD-3	686597	S	56	663	719	0.00260
+Martelella sp. NC20	2740298	S	19	27	46	0.00017
+Rhizobium oryzihabitans	2267833	S	57	32	89	0.00032
+Shinella sp. PSBB067	2715959	S	36	4	40	0.00014
+Beijerinckiaceae bacterium RH AL1	2572036	S	79	1	80	0.00029
+Methylorubrum populi	223967	S	14	24	38	0.00014
+Brucella anthropi	529	S	15	9	24	0.00009
+Tistrella mobilis	171437	S	359	10	369	0.00133
+Alicycliphilus denitrificans	179636	S	612	241	853	0.00308
+Cupriavidus sp. EM10	2839983	S	53	24	77	0.00028
+Cupriavidus basilensis	68895	S	36	36	72	0.00026
+Cupriavidus metallidurans	119219	S	19	145	164	0.00059
+Microbacterium sediminis	904291	S	256	161	417	0.00151
+Microbacterium paraoxydans	199592	S	133	121	254	0.00092
+Microbacterium sp. No. 7	1714373	S	42	0	42	0.00015
+Staphylococcus pragensis	1611836	S	17	28	45	0.00016
+Staphylococcus argenteus	985002	S	16	22	38	0.00014
+Candidatus Entotheonella factor	1429438	S	15	0	15	0.00005
+Haloferax volcanii	2246	S	160	33	193	0.00070
+Halorubrum sp. CBA1229	1853699	S	19	27	46	0.00017

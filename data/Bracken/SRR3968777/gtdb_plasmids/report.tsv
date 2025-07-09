@@ -1,0 +1,75 @@
+100.00	11617	0	R	1	root
+100.00	11617	0	R1	131567	  cellular organisms
+100.00	11617	0	D	2	    Bacteria
+100.00	11617	0	P	1224	      Pseudomonadota
+97.84	11366	0	C	1236	        Gammaproteobacteria
+53.19	6178	0	O	135622	          Alteromonadales
+25.45	2957	0	F	267888	            Pseudoalteromonadaceae
+25.45	2957	0	G	53246	              Pseudoalteromonas
+18.15	2108	2108	S	394751	                Pseudoalteromonas arctica
+4.55	528	0	G1	194690	                unclassified Pseudoalteromonas
+4.55	528	528	S	1514074	                  Pseudoalteromonas sp. NC201
+1.38	160	160	S	28109	                Pseudoalteromonas nigrifaciens
+1.11	128	128	S	227	                Pseudoalteromonas carrageenovora
+0.27	31	31	S	1190813	                Pseudoalteromonas shioyasakiensis
+24.10	2799	0	F	72275	            Alteromonadaceae
+24.10	2799	0	F1	2903219	              Alteromonas/Salinimonas group
+23.65	2747	0	G	288793	                Salinimonas
+23.65	2747	2747	S	2572577	                  Salinimonas iocasae
+0.45	52	0	G	226	                Alteromonas
+0.45	52	0	G1	2614992	                  unclassified Alteromonas
+0.45	52	52	S	2267264	                    Alteromonas sp. RKMC-009
+3.64	422	0	F	267890	            Shewanellaceae
+3.64	422	0	G	22	              Shewanella
+3.64	422	422	S	1028752	                Shewanella aestuarii
+15.49	1798	0	O	91347	          Enterobacterales
+15.49	1798	0	F	1903414	            Morganellaceae
+15.49	1798	0	G	583	              Proteus
+15.49	1798	0	G1	257482	                unclassified Proteus (in: enterobacteria)
+15.49	1798	1798	S	2697019	                  Proteus sp. ZN5
+13.15	1527	0	O	135619	          Oceanospirillales
+13.15	1527	0	F	28256	            Halomonadaceae
+13.15	1527	0	G	2745	              Halomonas
+10.55	1225	1225	S	229007	                Halomonas ventosae
+2.60	301	301	S	115553	                Halomonas sulfidaeris
+6.30	732	0	O	2887326	          Moraxellales
+6.30	732	0	F	468	            Moraxellaceae
+6.30	732	0	G	469	              Acinetobacter
+3.72	432	0	G1	196816	                unclassified Acinetobacter
+3.72	432	432	S	2004644	                  Acinetobacter sp. WCHA45
+2.58	299	299	S	2006115	                Acinetobacter piscicola
+4.65	540	0	O	72274	          Pseudomonadales
+3.25	377	0	F	135621	            Pseudomonadaceae
+2.30	267	0	G	286	              Pseudomonas
+2.01	233	0	G1	136845	                Pseudomonas putida group
+2.01	233	233	S	303	                  Pseudomonas putida
+0.29	33	0	G1	136841	                Pseudomonas aeruginosa group
+0.29	33	33	S	53412	                  Pseudomonas resinovorans
+0.95	110	0	G	2901164	              Stutzerimonas
+0.95	110	0	G1	136846	                Stutzerimonas stutzeri group
+0.95	110	0	G2	578833	                  Stutzerimonas stutzeri subgroup
+0.95	110	110	S	316	                    Stutzerimonas stutzeri
+1.40	163	0	F	2887365	            Marinobacteraceae
+1.40	163	0	G	2742	              Marinobacter
+1.40	163	0	G1	83889	                unclassified Marinobacter
+1.21	140	140	S	2488665	                  Marinobacter sp. NP-4(2019)
+0.20	23	23	S	2547598	                  Marinobacter sp. JH2
+3.77	438	0	O	135623	          Vibrionales
+3.77	438	0	F	641	            Vibrionaceae
+3.77	438	0	G	662	              Vibrio
+3.59	416	416	S	76258	                Vibrio rumoiensis
+0.18	21	0	G1	1891919	                Vibrio oreintalis group
+0.18	21	21	S	29498	                  Vibrio tubiashii
+1.29	150	0	O	135614	          Xanthomonadales
+1.29	150	0	F	32033	            Xanthomonadaceae
+1.29	150	0	G	40323	              Stenotrophomonas
+1.29	150	150	S	216778	                Stenotrophomonas rhizophila
+2.16	250	0	C	28216	        Betaproteobacteria
+2.16	250	0	O	80840	          Burkholderiales
+2.16	250	0	F	119060	            Burkholderiaceae
+1.79	207	0	G	106589	              Cupriavidus
+0.60	70	0	G1	2640874	                unclassified Cupriavidus
+0.60	70	70	S	2839983	                  Cupriavidus sp. EM10
+1.18	137	137	S	68895	                Cupriavidus basilensis
+0.37	43	0	G	48736	              Ralstonia
+0.37	43	43	S	329	                Ralstonia pickettii

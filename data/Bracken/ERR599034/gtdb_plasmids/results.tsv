@@ -1,0 +1,79 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Croceicoccus marinus	450378	S	5468	1090	6558	0.14707
+Porphyrobacter sp. YT40	2547601	S	1090	743	1833	0.04111
+Aurantiacibacter atlanticus	1648404	S	968	1196	2164	0.04853
+Sphingopyxis sp. 113P3	292913	S	1486	1854	3340	0.07490
+Sphingopyxis sp. FD7	1914525	S	17	67	84	0.00188
+Sphingopyxis alaskensis	117207	S	129	350	479	0.01074
+Sphingopyxis macrogoltabida	33050	S	19	58	77	0.00173
+Novosphingobium resinovorum	158500	S	461	333	794	0.01781
+Novosphingobium sp. EMRT-2	2571749	S	324	449	773	0.01734
+Novosphingobium pentaromativorans	205844	S	99	59	158	0.00354
+Novosphingobium decolorationis	2698673	S	13	157	170	0.00381
+Sphingobium sp. Cam5-1	2789327	S	91	265	356	0.00798
+Sphingobium sp. CAP-1	2676077	S	40	394	434	0.00973
+Sphingobium cloacae	120107	S	92	763	855	0.01917
+Sphingobium herbicidovorans	76947	S	45	67	112	0.00251
+Sphingobium baderi	1332080	S	33	157	190	0.00426
+Sphingobium amiense	135719	S	28	355	383	0.00859
+Sphingobium indicum	332055	S	14	78	92	0.00206
+Sphingomonas sp. IC081	304378	S	93	197	290	0.00650
+Sphingomonas sp. NBWT7	2596913	S	28	82	110	0.00247
+Sphingomonas sp. FARSPH	2219696	S	26	45	71	0.00159
+Sphingomonas sanxanigenens	397260	S	29	104	133	0.00298
+Salipiger profundus	1229727	S	294	619	913	0.02048
+Salipiger abyssi	1250539	S	120	133	253	0.00567
+Sulfitobacter alexandrii	1917485	S	88	531	619	0.01388
+Sulfitobacter sp. D7	1968541	S	55	101	156	0.00350
+Sulfitobacter sp. THAF37	2587855	S	14	47	61	0.00137
+Sagittula sp. P11	2009329	S	210	1025	1235	0.02770
+Roseovarius indicus	540747	S	18	64	82	0.00184
+Roseovarius sp. THAF9	2587847	S	14	9	23	0.00052
+Pseudosulfitobacter pseudonitzschiae	1402135	S	28	32	60	0.00135
+Phaeobacter porticola	1844006	S	23	4	27	0.00061
+Octadecabacter sp. SW4	2602067	S	14	51	65	0.00146
+Yangia pacifica	311180	S	14	0	14	0.00031
+Pacificitalea manganoxidans	1411902	S	427	400	827	0.01855
+Paracoccus zhejiangensis	1077935	S	77	37	114	0.00256
+Paracoccus tegillarcae	1529068	S	74	104	178	0.00399
+Gemmobacter fulva	2840474	S	94	11	105	0.00235
+Paracoccaceae bacterium	1904441	S	35	50	85	0.00191
+Pukyongiella litopenaei	2605946	S	19	45	64	0.00144
+Pseudohalocynthiibacter aestuariivivens	1591409	S	14	12	26	0.00058
+Martelella mediterranea	293089	S	465	1819	2284	0.05122
+Martelella sp. AD-3	686597	S	102	891	993	0.02227
+Martelella sp. NC20	2740298	S	49	47	96	0.00215
+Shinella sp. PSBB067	2715959	S	70	12	82	0.00184
+Agrobacterium tumefaciens	358	S	12	13	25	0.00056
+Beijerinckiaceae bacterium RH AL1	2572036	S	65	1	66	0.00148
+Methylobacterium brachiatum	269660	S	26	12	38	0.00085
+Methylorubrum populi	223967	S	16	32	48	0.00108
+Brucella anthropi	529	S	36	14	50	0.00112
+Roseibium aggregatum	187304	S	19	1	20	0.00045
+Tistrella mobilis	171437	S	285	6	291	0.00653
+Indioceanicola profundi	2220096	S	73	1	74	0.00166
+Roseomonas gilardii	257708	S	16	0	16	0.00036
+Salinimonas iocasae	2572577	S	2586	1885	4471	0.10027
+Alteromonas sp. RKMC-009	2267264	S	64	0	64	0.00144
+Pseudoalteromonas arctica	394751	S	281	128	409	0.00917
+Pseudoalteromonas shioyasakiensis	1190813	S	56	0	56	0.00126
+Pseudoalteromonas sp. NC201	1514074	S	21	0	21	0.00047
+Shewanella aestuarii	1028752	S	207	284	491	0.01101
+Proteus sp. ZN5	2697019	S	113	1795	1908	0.04279
+Raoultella electrica	1259973	S	13	116	129	0.00289
+Halomonas ventosae	229007	S	166	413	579	0.01298
+Halomonas sulfidaeris	115553	S	60	36	96	0.00215
+Vibrio tubiashii	29498	S	196	133	329	0.00738
+Vibrio rumoiensis	76258	S	85	401	486	0.01090
+Acinetobacter piscicola	2006115	S	13	70	83	0.00186
+Marinobacter sp. NP-4(2019)	2488665	S	59	0	59	0.00132
+Microbacterium paraoxydans	199592	S	2263	1694	3957	0.08874
+Microbacterium sediminis	904291	S	900	464	1364	0.03059
+Microbacterium sp. No. 7	1714373	S	735	11	746	0.01673
+Microbacterium sp. NIBRBAC000506063	2734618	S	52	0	52	0.00117
+Mycobacterium sp. MS1601	1936029	S	110	20	130	0.00292
+Mycobacterium sp. ELW1	1547487	S	41	20	61	0.00137
+Mycolicibacterium poriferae	39694	S	55	22	77	0.00173
+Mycolicibacterium chubuense	1800	S	20	11	31	0.00070
+Mycolicibacterium aubagnense	319707	S	18	0	18	0.00040
+Dysgonomonadaceae bacterium zrk40	2811465	S	23	469	492	0.01103
