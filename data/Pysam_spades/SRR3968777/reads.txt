@@ -1,0 +1,11 @@
+sample	ali	prev	target	contig	reads
+SRR3968777	bowtie2	spades	spades	NODE_52_length_19677_cov_3.063439	1230
+SRR3968777	bowtie2	spades	spades	NODE_502_length_8756_cov_5.976435	1089
+SRR3968777	bowtie2	spades	spades	NODE_1681_length_4974_cov_20.064615	1974
+SRR3968777	bowtie2	spades	spades	NODE_1939_length_4598_cov_2.604801	247
+SRR3968777	bowtie2	spades	spades	NODE_8283_length_2174_cov_2.022169	85
+SRR3968777	bowtie2	spades	spades	NODE_9501_length_2024_cov_3.681558	141
+SRR3968777	bowtie2	spades	spades	NODE_10108_length_1963_cov_1.584227	63
+SRR3968777	bowtie2	spades	spades	NODE_27274_length_1165_cov_2.889306	60
+SRR3968777	bowtie2	spades	spades	NODE_28601_length_1136_cov_6.153327	112
+SRR3968777	bowtie2	spades	spades	NODE_30343_length_1101_cov_1.293413	30

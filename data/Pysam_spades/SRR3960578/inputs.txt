@@ -1,0 +1,2 @@
+fasta	bam	sample	ali	prev	target	classif
+/work/mcalderon/deepsea/7-platon/SRR3960578/filtered_contigs.plasmid.fasta	/work/mcalderon/deepsea/15-mapping/SRR3960578/bowtie2/contigs/alignment.bowtie2.sorted.bam	SRR3960578	bowtie2	spades	spades	assembling
