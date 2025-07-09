@@ -1,0 +1,2 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+7-platon/ERR599115/filtered_contigs.plasmid.fasta	NODE_29865_length_3044_cov_0.742954	1626	2486	+	blaTEM-116_1	1-861/861	===============	0/0	100.00	99.77	resfinder	AY425988	blaTEM-116	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin

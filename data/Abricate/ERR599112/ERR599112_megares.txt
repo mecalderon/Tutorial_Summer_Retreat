@@ -1,0 +1,2 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+7-platon/ERR599112/filtered_contigs.plasmid.fasta	NODE_202395_length_1052_cov_0.098636	221	544	-	QACC	1-324/324	===============	0/0	100.00	100.00	megares	MEG_5826	Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_SMR_efflux_pumps:QACC	

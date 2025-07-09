@@ -1,0 +1,2 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+7-platon/ERR598944/filtered_contigs.plasmid.fasta	NODE_261_length_34471_cov_0.291516	5884	6089	+	acpXL	1-206/237	==============.	0/0	86.92	80.58	vfdb	NP_540392	(acpXL) acyl carrier protein [LPS (CVF383)] [Brucella melitensis bv. 1 str. 16M]	

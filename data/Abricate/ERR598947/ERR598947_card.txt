@@ -1,0 +1,2 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+7-platon/ERR598947/filtered_contigs.plasmid.fasta	NODE_10665_length_4144_cov_0.224227	1177	1965	+	aadA27	1-789/789	===============	0/0	100.00	100.00	card	LN873256.1:4027-3238	Small mobilizable plasmid pALWED1.8 containing a novel variant of the streptomycin/spectinomycin resistance gene	aminoglycoside
