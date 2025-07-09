@@ -1,0 +1,116 @@
+/opt/bioinf/quast-5.2.1/lib/python3.6/site-packages/quast-5.2.0-py3.6.egg/EGG-INFO/scripts/quast.py --no-krona --min-identity 90.0 7-platon/ERR599055/filtered_contigs.plasmid.fasta 7-platon/ERR599060/filtered_contigs.plasmid.fasta 7-platon/ERR599062/filtered_contigs.plasmid.fasta 7-platon/ERR599067/filtered_contigs.plasmid.fasta 7-platon/ERR599071/filtered_contigs.plasmid.fasta 7-platon/ERR599072/filtered_contigs.plasmid.fasta 7-platon/ERR599076/filtered_contigs.plasmid.fasta 7-platon/ERR599083/filtered_contigs.plasmid.fasta -o /work/mcalderon/deepsea/12-quast_plasmid/ERR599055 --labels "ERR599055, ERR599060, ERR599062, ERR599067, ERR599071, ERR599072, ERR599076, ERR599083"
+
+Version: 5.2.0, 2723558
+
+System information:
+  OS: Linux-3.10.0-1160.76.1.el7.x86_64-x86_64-with-centos-7.9.2009-Core (linux_64)
+  Python version: 3.7.7
+  CPUs number: 36
+
+Started: 2024-01-10 08:43:57
+
+Logging to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
+NOTICE: Maximum number of threads is set to 9 (use --threads option to set it manually)
+
+CWD: /work/mcalderon/deepsea
+Main parameters: 
+  MODE: meta, threads: 9, min contig length: 500, min alignment length: 65, min alignment IDY: 90.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  1  7-platon/ERR599055/filtered_contigs.plasmid.fasta ==> ERR599055
+  2  7-platon/ERR599060/filtered_contigs.plasmid.fasta ==> ERR599060
+  3  7-platon/ERR599062/filtered_contigs.plasmid.fasta ==> ERR599062
+  4  7-platon/ERR599067/filtered_contigs.plasmid.fasta ==> ERR599067
+  5  7-platon/ERR599071/filtered_contigs.plasmid.fasta ==> ERR599071
+  6  7-platon/ERR599072/filtered_contigs.plasmid.fasta ==> ERR599072
+  7  7-platon/ERR599076/filtered_contigs.plasmid.fasta ==> ERR599076
+  8  7-platon/ERR599083/filtered_contigs.plasmid.fasta ==> ERR599083
+
+2024-01-10 08:43:58
+Running Basic statistics processor...
+  Contig files: 
+    1  ERR599055
+    2  ERR599060
+    3  ERR599062
+    4  ERR599067
+    5  ERR599071
+    6  ERR599072
+    7  ERR599076
+    8  ERR599083
+  Calculating N50 and L50...
+    1  ERR599055, N50 = 1996, L50 = 12, auN = 2346.2, Total length = 64690, GC % = 53.51, # N's per 100 kbp =  0.00
+    2  ERR599060, N50 = 20547, L50 = 2, auN = 39617.4, Total length = 174660, GC % = 54.96, # N's per 100 kbp =  0.00
+    3  ERR599062, N50 = 32594, L50 = 2, auN = 114146.0, Total length = 545352, GC % = 43.40, # N's per 100 kbp =  0.00
+    4  ERR599067, N50 = 31743, L50 = 4, auN = 37925.9, Total length = 398365, GC % = 58.56, # N's per 100 kbp =  0.00
+    5  ERR599071, N50 = 9346, L50 = 10, auN = 10935.4, Total length = 297759, GC % = 53.79, # N's per 100 kbp =  0.00
+    6  ERR599072, N50 = 41530, L50 = 23, auN = 72028.6, Total length = 4129205, GC % = 46.78, # N's per 100 kbp =  0.00
+    7  ERR599076, N50 = 421278, L50 = 1, auN = 334113.6, Total length = 541155, GC % = 45.39, # N's per 100 kbp =  0.00
+    8  ERR599083, N50 = 28586, L50 = 8, auN = 37807.6, Total length = 828001, GC % = 58.27, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/GC_content_plot.pdf
+  Drawing ERR599055 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/ERR599055_GC_content_plot.pdf
+  Drawing ERR599060 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/ERR599060_GC_content_plot.pdf
+  Drawing ERR599062 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/ERR599062_GC_content_plot.pdf
+  Drawing ERR599067 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/ERR599067_GC_content_plot.pdf
+  Drawing ERR599071 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/ERR599071_GC_content_plot.pdf
+  Drawing ERR599072 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/ERR599072_GC_content_plot.pdf
+  Drawing ERR599076 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/ERR599076_GC_content_plot.pdf
+  Drawing ERR599083 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/ERR599083_GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/coverage_histogram.pdf
+  Drawing ERR599055 coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/ERR599055_coverage_histogram.pdf
+  Drawing ERR599060 coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/ERR599060_coverage_histogram.pdf
+  Drawing ERR599062 coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/ERR599062_coverage_histogram.pdf
+  Drawing ERR599067 coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/ERR599067_coverage_histogram.pdf
+  Drawing ERR599071 coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/ERR599071_coverage_histogram.pdf
+  Drawing ERR599072 coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/ERR599072_coverage_histogram.pdf
+  Drawing ERR599076 coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/ERR599076_coverage_histogram.pdf
+  Drawing ERR599083 coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/basic_stats/ERR599083_coverage_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2024-01-10 08:44:08
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2024-01-10 08:44:10
+RESULTS:
+  Text versions of total report are saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/report.html
+  PDF version (tables and plots) is saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/report.pdf
+  Icarus (contig browser) is saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/icarus.html
+  Log is saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/quast.log
+
+Finished: 2024-01-10 08:44:11
+Elapsed time: 0:00:14.709194
+NOTICEs: 3; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

@@ -1,0 +1,123 @@
+/opt/bioinf/quast-5.2.1/lib/python3.6/site-packages/quast-5.2.0-py3.6.egg/EGG-INFO/scripts/quast.py --no-krona --min-identity 90.0 7-platon/SRR3965873/filtered_contigs.plasmid.fasta 7-platon/SRR3965874/filtered_contigs.plasmid.fasta 7-platon/SRR3966130/filtered_contigs.plasmid.fasta 7-platon/SRR3967319/filtered_contigs.plasmid.fasta 7-platon/SRR3967690/filtered_contigs.plasmid.fasta 7-platon/SRR3967700/filtered_contigs.plasmid.fasta 7-platon/SRR3968061/filtered_contigs.plasmid.fasta 7-platon/SRR3968062/filtered_contigs.plasmid.fasta 7-platon/SRR3968777/filtered_contigs.plasmid.fasta -o /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873 --labels "SRR3965873, SRR3965874, SRR3966130, SRR3967319, SRR3967690, SRR3967700, SRR3968061, SRR3968062, SRR3968777"
+
+Version: 5.2.0, 2723558
+
+System information:
+  OS: Linux-3.10.0-1160.76.1.el7.x86_64-x86_64-with-centos-7.9.2009-Core (linux_64)
+  Python version: 3.7.7
+  CPUs number: 36
+
+Started: 2023-11-17 13:29:35
+
+Logging to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
+NOTICE: Maximum number of threads is set to 9 (use --threads option to set it manually)
+
+CWD: /work/mcalderon/deepsea
+Main parameters: 
+  MODE: meta, threads: 9, min contig length: 500, min alignment length: 65, min alignment IDY: 90.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  1  7-platon/SRR3965873/filtered_contigs.plasmid.fasta ==> SRR3965873
+  2  7-platon/SRR3965874/filtered_contigs.plasmid.fasta ==> SRR3965874
+  3  7-platon/SRR3966130/filtered_contigs.plasmid.fasta ==> SRR3966130
+  4  7-platon/SRR3967319/filtered_contigs.plasmid.fasta ==> SRR3967319
+  5  7-platon/SRR3967690/filtered_contigs.plasmid.fasta ==> SRR3967690
+  6  7-platon/SRR3967700/filtered_contigs.plasmid.fasta ==> SRR3967700
+  7  7-platon/SRR3968061/filtered_contigs.plasmid.fasta ==> SRR3968061
+  8  7-platon/SRR3968062/filtered_contigs.plasmid.fasta ==> SRR3968062
+  9  7-platon/SRR3968777/filtered_contigs.plasmid.fasta ==> SRR3968777
+
+2023-11-17 13:29:38
+Running Basic statistics processor...
+  Contig files: 
+    1  SRR3965873
+    2  SRR3965874
+    3  SRR3966130
+    4  SRR3967319
+    5  SRR3967690
+    6  SRR3967700
+    7  SRR3968061
+    8  SRR3968062
+    9  SRR3968777
+  Calculating N50 and L50...
+    1  SRR3965873, N50 = 2723, L50 = 54, auN = 3356.1, Total length = 445413, GC % = 59.30, # N's per 100 kbp =  0.00
+    2  SRR3965874, N50 = 1676, L50 = 30, auN = 2429.4, Total length = 163557, GC % = 56.76, # N's per 100 kbp =  0.00
+    3  SRR3966130, N50 = 3610, L50 = 49, auN = 4754.0, Total length = 601635, GC % = 57.20, # N's per 100 kbp =  0.00
+    4  SRR3967319, N50 = 2000, L50 = 44, auN = 2351.2, Total length = 245613, GC % = 55.04, # N's per 100 kbp =  0.00
+    5  SRR3967690, N50 = 5941, L50 = 8, auN = 7991.7, Total length = 174472, GC % = 43.28, # N's per 100 kbp =  0.00
+    6  SRR3967700, N50 = 7283, L50 = 5, auN = 7369.2, Total length = 86111, GC % = 43.51, # N's per 100 kbp =  0.00
+    7  SRR3968061, N50 = 7946, L50 = 1, auN = 6919.9, Total length = 9452, GC % = 39.88, # N's per 100 kbp =  0.00
+    8  SRR3968062, N50 = 58353, L50 = 2, auN = 51085.3, Total length = 322719, GC % = 41.52, # N's per 100 kbp =  0.00
+    9  SRR3968777, N50 = 8756, L50 = 2, auN = 11063.5, Total length = 47568, GC % = 42.87, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/GC_content_plot.pdf
+  Drawing SRR3965873 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3965873_GC_content_plot.pdf
+  Drawing SRR3965874 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3965874_GC_content_plot.pdf
+  Drawing SRR3966130 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3966130_GC_content_plot.pdf
+  Drawing SRR3967319 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3967319_GC_content_plot.pdf
+  Drawing SRR3967690 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3967690_GC_content_plot.pdf
+  Drawing SRR3967700 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3967700_GC_content_plot.pdf
+  Drawing SRR3968061 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3968061_GC_content_plot.pdf
+  Drawing SRR3968062 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3968062_GC_content_plot.pdf
+  Drawing SRR3968777 GC content plot...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3968777_GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/coverage_histogram.pdf
+  Drawing SRR3965873 coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3965873_coverage_histogram.pdf
+  Drawing SRR3965874 coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3965874_coverage_histogram.pdf
+  Drawing SRR3966130 coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3966130_coverage_histogram.pdf
+  Drawing SRR3967319 coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3967319_coverage_histogram.pdf
+  Drawing SRR3967690 coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3967690_coverage_histogram.pdf
+  Drawing SRR3967700 coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3967700_coverage_histogram.pdf
+  Drawing SRR3968061 coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3968061_coverage_histogram.pdf
+  Drawing SRR3968062 coverage histogram (bin size: 4x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3968062_coverage_histogram.pdf
+  Drawing SRR3968777 coverage histogram (bin size: 1x)...
+    saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/basic_stats/SRR3968777_coverage_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2023-11-17 13:29:55
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2023-11-17 13:29:58
+RESULTS:
+  Text versions of total report are saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/report.html
+  PDF version (tables and plots) is saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/report.pdf
+  Icarus (contig browser) is saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/icarus.html
+  Log is saved to /work/mcalderon/deepsea/12-quast_plasmid/SRR3965873/quast.log
+
+Finished: 2023-11-17 13:30:03
+Elapsed time: 0:00:28.087332
+NOTICEs: 3; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

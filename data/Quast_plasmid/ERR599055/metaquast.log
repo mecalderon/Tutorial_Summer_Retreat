@@ -1,0 +1,81 @@
+/opt/bioinf/quast-5.2.1/lib/python3.6/site-packages/quast-5.2.0-py3.6.egg/EGG-INFO/scripts/metaquast.py 7-platon/ERR599055/filtered_contigs.plasmid.fasta 7-platon/ERR599060/filtered_contigs.plasmid.fasta 7-platon/ERR599062/filtered_contigs.plasmid.fasta 7-platon/ERR599067/filtered_contigs.plasmid.fasta 7-platon/ERR599071/filtered_contigs.plasmid.fasta 7-platon/ERR599072/filtered_contigs.plasmid.fasta 7-platon/ERR599076/filtered_contigs.plasmid.fasta 7-platon/ERR599083/filtered_contigs.plasmid.fasta --labels ERR599055, ERR599060, ERR599062, ERR599067, ERR599071, ERR599072, ERR599076, ERR599083 -o 12-quast_plasmid/ERR599055 --no-krona
+
+Version: 5.2.0, 2723558
+
+System information:
+  OS: Linux-3.10.0-1160.76.1.el7.x86_64-x86_64-with-centos-7.9.2009-Core (linux_64)
+  Python version: 3.7.7
+  CPUs number: 36
+
+Started: 2024-01-10 08:43:51
+
+Logging to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/metaquast.log
+NOTICE: Maximum number of threads is set to 9 (use --threads option to set it manually)
+
+Contigs:
+  Pre-processing...
+  1  7-platon/ERR599055/filtered_contigs.plasmid.fasta ==> ERR599055
+  2  7-platon/ERR599060/filtered_contigs.plasmid.fasta ==> ERR599060
+  3  7-platon/ERR599062/filtered_contigs.plasmid.fasta ==> ERR599062
+  4  7-platon/ERR599067/filtered_contigs.plasmid.fasta ==> ERR599067
+  5  7-platon/ERR599071/filtered_contigs.plasmid.fasta ==> ERR599071
+  6  7-platon/ERR599072/filtered_contigs.plasmid.fasta ==> ERR599072
+  7  7-platon/ERR599076/filtered_contigs.plasmid.fasta ==> ERR599076
+  8  7-platon/ERR599083/filtered_contigs.plasmid.fasta ==> ERR599083
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2024-01-10 08:43:54
+Running BlastN..
+  processing ERR599055
+  processing ERR599060
+  processing ERR599062
+  processing ERR599067
+  processing ERR599071
+  processing ERR599072
+  processing ERR599076
+  processing ERR599083
+/home/mcalderon/.quast/blast/blastn -query 7-platon/ERR599055/filtered_contigs.plasmid.fasta \
+-db /home/mcalderon/.quast/silva/silva.138.1.db -outfmt 7 -num_threads 1 > 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.res_ERR599055 \
+2>> 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.err
+/home/mcalderon/.quast/blast/blastn -query 7-platon/ERR599062/filtered_contigs.plasmid.fasta \
+-db /home/mcalderon/.quast/silva/silva.138.1.db -outfmt 7 -num_threads 1 > 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.res_ERR599062 \
+2>> 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.err
+/home/mcalderon/.quast/blast/blastn -query 7-platon/ERR599060/filtered_contigs.plasmid.fasta \
+-db /home/mcalderon/.quast/silva/silva.138.1.db -outfmt 7 -num_threads 1 > 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.res_ERR599060 \
+2>> 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.err
+/home/mcalderon/.quast/blast/blastn -query 7-platon/ERR599067/filtered_contigs.plasmid.fasta \
+-db /home/mcalderon/.quast/silva/silva.138.1.db -outfmt 7 -num_threads 1 > 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.res_ERR599067 \
+2>> 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.err
+/home/mcalderon/.quast/blast/blastn -query 7-platon/ERR599071/filtered_contigs.plasmid.fasta \
+-db /home/mcalderon/.quast/silva/silva.138.1.db -outfmt 7 -num_threads 1 > 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.res_ERR599071 \
+2>> 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.err
+/home/mcalderon/.quast/blast/blastn -query 7-platon/ERR599072/filtered_contigs.plasmid.fasta \
+-db /home/mcalderon/.quast/silva/silva.138.1.db -outfmt 7 -num_threads 1 > 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.res_ERR599072 \
+2>> 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.err
+/home/mcalderon/.quast/blast/blastn -query 7-platon/ERR599076/filtered_contigs.plasmid.fasta \
+-db /home/mcalderon/.quast/silva/silva.138.1.db -outfmt 7 -num_threads 1 > 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.res_ERR599076 \
+2>> 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.err
+/home/mcalderon/.quast/blast/blastn -query 7-platon/ERR599083/filtered_contigs.plasmid.fasta \
+-db /home/mcalderon/.quast/silva/silva.138.1.db -outfmt 7 -num_threads 1 > 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.res_ERR599083 \
+2>> 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.err
+The tool returned non-zero. See 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.err for stderr.
+  BLAST results for ERR599071 are saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/quast_downloaded_references/blast.res_ERR599071...
+The tool returned non-zero. See 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.err for stderr.
+The tool returned non-zero. See 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.err for stderr.
+The tool returned non-zero. See 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.err for stderr.
+The tool returned non-zero. See 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.err for stderr.
+The tool returned non-zero. See 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.err for stderr.
+  BLAST results for ERR599060 are saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/quast_downloaded_references/blast.res_ERR599060...
+  BLAST results for ERR599083 are saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/quast_downloaded_references/blast.res_ERR599083...
+  BLAST results for ERR599067 are saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/quast_downloaded_references/blast.res_ERR599067...
+  BLAST results for ERR599062 are saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/quast_downloaded_references/blast.res_ERR599062...
+  BLAST results for ERR599076 are saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/quast_downloaded_references/blast.res_ERR599076...
+The tool returned non-zero. See 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.err for stderr.
+The tool returned non-zero. See 12-quast_plasmid/ERR599055/quast_downloaded_references/blast.err for stderr.
+  BLAST results for ERR599055 are saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/quast_downloaded_references/blast.res_ERR599055...
+  BLAST results for ERR599072 are saved to /work/mcalderon/deepsea/12-quast_plasmid/ERR599055/quast_downloaded_references/blast.res_ERR599072...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
