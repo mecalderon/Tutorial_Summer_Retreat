@@ -1,0 +1,180 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+filtered_contigs.plasmid	chromosome	-	-	NODE_44_length_79160_cov_0.277887	79160	0.4366599292572006	384913b7d9eb491fc5626e4acd2a01e6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_97_length_48034_cov_0.200751	48034	0.6062580672023983	2b5edf5f78cbabae003f0eed600f1584	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0380652	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	plasmid	novel_da307cec5a59b5ed884a70dc5bfc2a8d	-	NODE_465_length_19908_cov_0.231460	19908	0.4793550331525015	cea2a33652333df4be33fdeba81b6d85	not tested	-	-	MOBH	CP009357_00140	-	-	-	-	-	CP009357	0.0733545	Vibrio tubiashii ATCC 19109	-	-	-
+filtered_contigs.plasmid	plasmid	novel_da307cec5a59b5ed884a70dc5bfc2a8d	-	NODE_894_length_14676_cov_0.195102	14676	0.4906650313436904	96834a36267790f8302b7bd296d36a77	not tested	-	-	-	-	MPF_F,MPF_G,MPF_T	NC_008739_00043,NC_008739_00035,NC_008739_00031	-	-	-	CP009357	0.0733545	Vibrio tubiashii ATCC 19109	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1227_length_12433_cov_0.161748	12433	0.566717606370144	306f341bf32df647686b3cdeeae13970	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1399_length_11713_cov_0.105132	11713	0.6455220694954324	4666784fccd6bd44947d4edb37063427	not tested	-	-	MOBQ	CP005087_00061	MPF_T	NC_020542_00042	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1453_length_11543_cov_0.148986	11543	0.6422073984232869	a84db21900f4560dfe8f15b07d0499bc	not tested	rep_cluster_2238	CP017058_00081	MOBP	CP010360_00062	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC773	-	NODE_1938_length_10026_cov_0.193110	10026	0.6133054059445442	3541dc586910578c97f5b15d2b7fc4ab	not tested	-	-	-	-	-	-	-	-	-	CP009884	0.0314775	Pantoea sp. PSNIH1	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_2950_length_8193_cov_0.192241	8193	0.6211399975588917	bd363fc1c6807972e2c377291ea20bcc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_3060_length_8064_cov_0.141745	8064	0.5895337301587301	c996d96c0118e18fd4346610c3b05cd8	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0380652	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_3148_length_7955_cov_0.123345	7955	0.5756128221244501	afe8ad06542f10d2935d29f4998d2e50	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_3290_length_7806_cov_0.115220	7806	0.6113246220855753	c745040e389382c4b7b2a10efe41ecd4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_3719_length_7408_cov_0.125735	7408	0.3600161987041037	74eadc07b4af2044b39a4f77d40ca7ce	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_4264_length_6942_cov_0.170247	6942	0.5037453183520599	2d31b7f29adb70eb2df6145735a7b8fe	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_4297_length_6920_cov_0.125788	6920	0.38352601156069366	f7be5075c0d09a8068747a5602aa575e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_4436_length_6823_cov_0.836109	6823	0.4640187600762128	a9ce3cbdbf4660d054beaf71b772c38b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_da307cec5a59b5ed884a70dc5bfc2a8d	-	NODE_4481_length_6793_cov_0.228712	6793	0.47004269100544677	823265f9a758a0db3cf0056d754b4b3a	not tested	-	-	-	-	-	-	-	-	-	CP009357	0.0733545	Vibrio tubiashii ATCC 19109	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_5034_length_6478_cov_0.142969	6478	0.4276011114541525	14ed66f743ead1444a8e091d0f9297b1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_5036_length_6478_cov_0.110205	6478	0.5912318616857055	19f1ba374d5c6460f51c17119db2303f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_5124_length_6429_cov_0.090679	6429	0.6371130813501322	b8bceeee8086cedbf798338e7d9ec315	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_6821_length_5642_cov_0.387516	5642	0.6267281105990783	bd3cbbedff1131998e18606c0851fd29	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_6928_length_5602_cov_0.167182	5602	0.43770082113530884	d3b1c87d1d779c0b7c02aee16bbad948	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_7406_length_5437_cov_0.184151	5437	0.4335111274599963	df387bb16a91fbb5d4af0192b419e898	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_7506_length_5410_cov_0.118433	5410	0.34473197781885395	ce81228f6993e58a7171740e1e7ee90e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_8037_length_5242_cov_0.121913	5242	0.6018695154521175	1231854c59bdaa7f9464456e3d100e01	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_9848_length_4784_cov_0.099466	4784	0.6214464882943144	faafd49e73e12b9a7e769b5997c6ae6d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_10491_length_4647_cov_0.152595	4647	0.604906391220142	1b4a3a57ac6b1585fb1afc2b7f11c1da	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0380652	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_12156_length_4337_cov_0.148419	4337	0.6135577588194605	5bfbcf0259a316aa3e95b460aba83cf1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_13000_length_4201_cov_0.119698	4201	0.6484170435610569	edf2f4f5618440b6ad254f9a9b85e080	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_14648_length_3983_cov_0.070546	3983	0.6183781069545569	ee61162ecc9a934515d91e55783d0197	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_15954_length_3827_cov_0.139485	3827	0.6179775280898876	de6fc2a5639c6e6783e19ad28bfe0fc1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AB593	-	NODE_18728_length_3540_cov_0.096484	3540	0.6107344632768361	19a4243936be3a4f683d46189606d5be	not tested	-	-	-	-	-	-	-	-	-	CP010955	0.027077	Sphingobium sp. YBL2	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_19183_length_3501_cov_0.156966	3501	0.3450442730648386	27d5399fc38c2bcd29e23e79570c1d78	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_23145_length_3208_cov_0.499196	3208	0.5891521197007481	13efcca288c56ddcdb5ea54a8dfbbe97	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP003505	IS1071	repetitve element
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_25942_length_3038_cov_0.158898	3038	0.5984200131665569	8997ae9c4d44128d7618837473db1fe0	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0380652	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_27359_length_2962_cov_0.113168	2962	0.42437542201215395	85ac6765df5f92b0d7b1760d7b15794d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_28370_length_2913_cov_0.138237	2913	0.6295914864400961	ee88b9edd0054608216c264006820386	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_28406_length_2911_cov_0.431721	2911	0.45757471659223636	a1de6935bea586c9b58f93b7f9ae66dd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_28939_length_2887_cov_0.085725	2887	0.4561828888119155	11ed6bea5f062efa14ab3ec2c3c8c580	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_30258_length_2827_cov_0.073680	2827	0.42377078174743543	04336f3620a7e6d69416ec282f914ec3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_32098_length_2750_cov_0.089400	2750	0.6723636363636364	b3327d96338591657768bba641ff3a3d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AB933	-	NODE_32203_length_2746_cov_0.106158	2746	0.6307356154406409	ac5bbdd03a44f590f503a01a9ec7a570	not tested	rep_cluster_1149	000427__GU811235_00024	-	-	-	-	-	-	-	CP013269	0.0450347	Sphingobium baderi	-	-	-
+filtered_contigs.plasmid	plasmid	AB933	-	NODE_32358_length_2740_cov_0.075729	2740	0.6324817518248175	e1d1464d6c41cddf767ecd7b18567359	not tested	-	-	-	-	-	-	-	-	-	CP013269	0.0450347	Sphingobium baderi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_33284_length_2705_cov_0.102456	2705	0.7168207024029575	aaf9a4fc0f50cd803fb337cf4472aa86	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AB593	-	NODE_34088_length_2675_cov_0.089674	2675	0.617196261682243	755ef89b1d16d62d08fc67bc2771bd67	not tested	-	-	-	-	-	-	-	-	-	CP010955	0.027077	Sphingobium sp. YBL2	-	-	-
+filtered_contigs.plasmid	plasmid	AB593	-	NODE_37712_length_2551_cov_0.080343	2551	0.613484907879263	e1ba1412ec06c3d5dfe38b7fcc8d17e1	not tested	-	-	-	-	-	-	-	-	-	CP010955	0.027077	Sphingobium sp. YBL2	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_38973_length_2512_cov_0.057605	2512	0.6667993630573248	4bd7e5523aca22f863cce1377d4d14b5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_39683_length_2490_cov_0.098285	2490	0.5184738955823294	884bcc05aff3f74f0482b6c8e364755f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_40574_length_2464_cov_0.103594	2464	0.37256493506493504	8a63bcdbeb1ef6e20a02a3166884df33	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_40677_length_2461_cov_0.072820	2461	0.6834620073141	9e7bc082119b7a5d1c84a0a6ec853dcf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_40720_length_2460_cov_0.043626	2460	0.6817073170731708	6609707e6feb2d194f2494bf099f86e6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_41818_length_2428_cov_1.741091	2428	0.41515650741350907	0b587738f6c6a6726e638bd4b5960b3f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_43096_length_2394_cov_0.118954	2394	0.576858813700919	ebfdf00a8a9688fb1006588221e700dd	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0380652	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_43428_length_2385_cov_0.168416	2385	0.49853249475890987	ef400505093e27992491d0fecb124bb0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_a1477ce4dabe6e8398220deec7fb7acf	-	NODE_44103_length_2368_cov_0.097840	2368	0.6397804054054054	f45f64ffeae900d9202a1871fca1c274	not tested	-	-	-	-	-	-	-	-	-	CP021188	0.0974869	Sphingomonas wittichii DC-6	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_44166_length_2366_cov_0.202470	2366	0.31741335587489433	7d58ac6870731e33e66f2701c64200ef	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AB593	-	NODE_44676_length_2353_cov_0.077196	2353	0.6022099447513812	ebe87c87f3c60712209c4d76743ec37c	not tested	-	-	-	-	-	-	-	-	-	CP010955	0.027077	Sphingobium sp. YBL2	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_45419_length_2333_cov_0.102059	2333	0.39691384483497644	8918e53966b061fa2c17cfc33e350533	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_45586_length_2329_cov_0.144843	2329	0.5951051953628167	d7e05ace9393c3b8899677828ffb0e19	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_50651_length_2214_cov_0.277069	2214	0.4042457091237579	8d11795f5a124f9ded9671770bc23e70	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_52668_length_2172_cov_0.094549	2172	0.3660220994475138	a748033ca15b8c74425746241be43871	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_54091_length_2145_cov_0.085044	2145	0.606993006993007	273af2808bd4c6f9fb7ac065065e4417	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_54893_length_2129_cov_0.097537	2129	0.41615782057303896	59db00fafde42ad5cb78397bb3608533	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_56954_length_2091_cov_0.101908	2091	0.5934959349593496	afa1ae981d948c15e28eadcda1d5ee01	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0380652	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	plasmid	AB933	-	NODE_62181_length_2004_cov_0.110236	2004	0.6521956087824351	902eb7d5e4f1030d5dd526b281e1f6ac	not tested	-	-	-	-	-	-	-	-	-	CP013269	0.0450347	Sphingobium baderi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_62674_length_1997_cov_0.068493	1997	0.3760640961442163	4fcad6312b94f13b4d0cef7196d38745	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_63514_length_1984_cov_0.087003	1984	0.42338709677419356	b660895677981b0cf64c881b67a73c50	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_63821_length_1979_cov_0.155851	1979	0.6265790803436079	1b1af9d37668dc5ce82453beea81bfa1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_65677_length_1953_cov_0.061489	1953	0.7122375832053252	861ed82d01e46149ba91dec664e491ba	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_66207_length_1945_cov_0.077465	1945	0.6508997429305913	3110afa1ade90f09c0012f15b12493cb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_69446_length_1901_cov_0.084351	1901	0.6906891109942136	01a8b8f02b7c9535f445cdb024245358	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_71824_length_1870_cov_0.081310	1870	0.627807486631016	f33f9ad78e9536b081642398c2d03405	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0380652	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	plasmid	novel_a1477ce4dabe6e8398220deec7fb7acf	-	NODE_71993_length_1868_cov_0.061617	1868	0.6268736616702355	f9f9e7028e0d6379e105ccf1fe71353e	not tested	-	-	-	-	-	-	-	-	-	CP021188	0.0974869	Sphingomonas wittichii DC-6	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_73589_length_1848_cov_0.100629	1848	0.5573593073593074	c98db9ff6c14ed763d9918ae70cad304	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0380652	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_75163_length_1829_cov_0.120231	1829	0.34117003827227993	5597729b00c97b1f12e64fee81e1bcad	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_77026_length_1808_cov_0.052662	1808	0.4059734513274336	17e362d359202af15537935f8f14a64a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_78945_length_1787_cov_0.062796	1787	0.6569669837716844	a04efca7978ccb03a8c2fd962f016dd4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_79298_length_1783_cov_0.091449	1783	0.41839596186203026	ec40c895139f6c779ebe7aaed96adb7a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_a1477ce4dabe6e8398220deec7fb7acf	-	NODE_80683_length_1768_cov_0.068304	1768	0.6029411764705882	c30f7c259dd15ae7811e2651ed0c151f	not tested	rep_cluster_754	002232__NC_019376_00020	-	-	-	-	-	-	-	CP021188	0.0974869	Sphingomonas wittichii DC-6	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_81006_length_1764_cov_0.090090	1764	0.36904761904761907	658a02d1a5b50c4af401eb3f680bb6f3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_83836_length_1735_cov_0.073961	1735	0.6530259365994237	89a229beaba96b18099a114bf1cdb84e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_83849_length_1735_cov_0.064181	1735	0.699135446685879	6571d298ea4bc855eda7c2d780c6f08e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_87293_length_1700_cov_0.080575	1700	0.3876470588235294	7fb95ce30e83054711dd31d577c87ec9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_88003_length_1693_cov_0.105395	1693	0.4217365623154164	117a5fe75accc0091831064913feb4e0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_94298_length_1637_cov_0.068921	1637	0.48808796579108127	ea1e3e32fe7178d4d0071b580acf628e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AB593	-	NODE_99308_length_1596_cov_0.074148	1596	0.6083959899749374	329a1bd7d26329c4f91e814fe5ee065e	not tested	-	-	-	-	-	-	-	-	-	CP010955	0.027077	Sphingobium sp. YBL2	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_102842_length_1568_cov_0.144997	1568	0.39221938775510207	fec510c01120cfdc274b297649c21f52	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_103600_length_1563_cov_0.053279	1563	0.7133717210492643	18af3919a3eddc1aa259f4aa30243b4e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_104712_length_1555_cov_0.059753	1555	0.6270096463022508	95a2a0fd6d625257e2614513cce5be6b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_104887_length_1553_cov_0.139615	1553	0.37282678686413395	ed1f6dad14f1093971fa38c3429eb486	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_105089_length_1552_cov_0.044047	1552	0.6849226804123711	e37c769aebb56db559c7f399d19a4921	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_109118_length_1523_cov_0.063202	1523	0.592908732764281	650a54a1e6867ab679502e0b59dd3cbb	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0380652	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_111774_length_1505_cov_0.055477	1505	0.695016611295681	5a7a086a2821d0a3aa44c32f42300f24	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AB593	-	NODE_112041_length_1503_cov_0.089031	1503	0.562874251497006	a8338a549057f78b370e09f18d8088c8	not tested	-	-	-	-	-	-	-	-	-	CP010955	0.027077	Sphingobium sp. YBL2	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_118489_length_1463_cov_0.076979	1463	0.37662337662337664	5b0c1b7690db4b7b25f9172155efeda5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_119836_length_1455_cov_0.081858	1455	0.6542955326460481	fdf6824a64d8fe5c52d134f8e8573b38	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_120892_length_1449_cov_0.076296	1449	0.39337474120082816	65aea67cc484011f83d5e7567bbe969d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_121555_length_1445_cov_0.211738	1445	0.43737024221453286	966f917edf266602f5ffaa5bd3f80d03	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_121909_length_1443_cov_0.095238	1443	0.38253638253638256	5fbbaef14048ad0d68e751924608738d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_122971_length_1437_cov_0.112108	1437	0.36464857341684065	9cda70438ea7d78364e7feb48f08030e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_123918_length_1432_cov_0.057764	1432	0.6599162011173184	f604afb74c7d6599c92375908be6de3e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_124430_length_1429_cov_0.069925	1429	0.36529041287613717	7c5510080e7c0b104e88b4418f77b8b3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_125658_length_1422_cov_0.103553	1422	0.35864978902953587	0227f246a1df9aef4cbbea38f2b87b8f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_125873_length_1421_cov_0.077156	1421	0.6220971147079521	e922678bf3810a3b81690a67409db147	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_127114_length_1414_cov_0.071483	1414	0.41230551626591233	b931587832acb5bf2a8b4a49d308b8cc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_127490_length_1412_cov_0.076161	1412	0.3781869688385269	1507d6a09a64ed5728337c2bd100aa04	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_128794_length_1405_cov_0.085758	1405	0.42277580071174375	ee7c8406bee546d0b90822f0b24cc59e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_129879_length_1399_cov_0.072308	1399	0.6733380986418871	07d62b654e35ea29a36e4e7f654ba646	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_130870_length_1394_cov_0.048649	1394	0.6305595408895266	bf611a20b0fb0aef6f47b4d5f56e91ab	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_132662_length_1385_cov_0.068429	1385	0.42888086642599277	15965e87d462044a37b2aead8d62f311	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_133216_length_1382_cov_0.078722	1382	0.6657018813314037	63d5cf990eebf27e876d71f51b055a99	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_133351_length_1381_cov_0.152886	1381	0.554670528602462	81a7616edd9c509b0ff481a3b52bdf64	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_134604_length_1375_cov_0.090125	1375	0.42472727272727273	34f783dc8a01f71ff0789a76598df4e5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_138266_length_1357_cov_0.045310	1357	0.7111274871039057	98322a0ff5782975c3bfae651b986590	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_141122_length_1343_cov_0.077974	1343	0.43037974683544306	c4320a9784051ef570818a4b6ddaa5e9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_146072_length_1320_cov_0.098280	1320	0.5878787878787879	cffcb22cf1e47a39cb4c4a5346dd707b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_da307cec5a59b5ed884a70dc5bfc2a8d	-	NODE_146983_length_1316_cov_0.098603	1316	0.4734042553191489	45f1a3efcdb8927feda496bee8e87852	not tested	-	-	-	-	-	-	-	-	-	CP009357	0.0733545	Vibrio tubiashii ATCC 19109	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_147070_length_1316_cov_0.060805	1316	0.6808510638297872	b25d0bae3b7ee412bf2fb73cbc3bfe73	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_147346_length_1315_cov_0.046875	1315	0.5726235741444867	aa70f5706e864210a2fdb4dd0cd457a1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_148138_length_1311_cov_0.096535	1311	0.6552250190694127	6ee91230d9413aab8e7f587e05e9dfd2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_150346_length_1302_cov_0.039069	1302	0.717357910906298	f2027ad2478be25b503472842592797f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_152424_length_1293_cov_0.057789	1293	0.6697602474864656	4055de14f2879980a283ea339b3a5084	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_156519_length_1276_cov_0.074766	1276	0.420846394984326	e94f2bf32a03f96cd97fafdc9dc9c68d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_159004_length_1266_cov_0.095973	1266	0.4186413902053712	d6451c98036c3141b663a5607ffbf83a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_159102_length_1266_cov_0.053128	1266	0.6729857819905213	1a1e35e1eb0ffb2fc9dfb34bcd15a546	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_160297_length_1261_cov_0.066265	1261	0.675654242664552	3244fd674b0b9e413c47fbf3b1e6a95e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_161889_length_1255_cov_0.050173	1255	0.7075697211155378	da4bced83ff756cd8c1fa53cf53c7a1e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_165052_length_1243_cov_0.065559	1243	0.6604987932421561	672f6f64946d03d83a4d8438da5e6fe8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_165746_length_1240_cov_0.144610	1240	0.5870967741935483	576fccfeb4185b7197e7b96d4db399c0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_168829_length_1229_cov_0.061947	1229	0.7209113100081367	8816d4453fbb68508d7427bbbffd1b38	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_169664_length_1226_cov_0.061224	1226	0.6933115823817292	0840e342c0dc1bb9fa61c549592d1003	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_171044_length_1221_cov_0.084670	1221	0.5110565110565111	5d20baa99c0b624b9d740e52dc6382c8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_171302_length_1220_cov_0.082070	1220	0.3295081967213115	2e205655d9768b86136166ce5b40b2f9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_171671_length_1219_cov_0.059821	1219	0.51681706316653	b535e5a7388141ac7cd58f0b2e4cfd1d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_171673_length_1219_cov_0.059821	1219	0.7169811320754716	370f0459521990e56a1221b2e5783f84	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_177168_length_1200_cov_0.069028	1200	0.65	78b51deba2781a8b1748f10d94f1d55e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_179331_length_1193_cov_0.066728	1193	0.6546521374685667	e91904d0bf484f1c1454d61cd0398dec	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_180828_length_1188_cov_0.071625	1188	0.7154882154882155	e5d8d986e37fbc9d4a2dae3ea539551a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_183386_length_1180_cov_0.049029	1180	0.6288135593220339	c8ebbba674da00497a2f766debe817cf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_186229_length_1171_cov_0.061567	1171	0.7019641332194705	fc89da34e9069d5489e9ea17fc22cd8c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_187155_length_1168_cov_0.072030	1168	0.3904109589041096	7fa975e415a0481bce3931b9197ac58f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_191123_length_1156_cov_0.079470	1156	0.3460207612456747	1216a6042f32b073ff192bd90968cd6e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_192218_length_1153_cov_0.061670	1153	0.6921075455333912	383cb37ba5210f2ea66a558a21fe1640	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_192252_length_1153_cov_0.054080	1153	0.6903729401561145	ffe4ee90240ca9ddb728c202b89bbcf7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AB593	-	NODE_193447_length_1149_cov_0.066667	1149	0.6335944299390774	280dad6ae88d4f20450ee159f3013ead	not tested	-	-	-	-	-	-	-	-	-	CP010955	0.027077	Sphingobium sp. YBL2	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_195068_length_1144_cov_0.083254	1144	0.6564685314685315	654372586b2fce40fc8eb083f67530ea	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_195513_length_1143_cov_0.062261	1143	0.6920384951881015	891c988922ac5c61c614d6356902ef00	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_199741_length_1131_cov_0.094961	1131	0.358974358974359	75f351f3104538030b70f53e87206782	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_199876_length_1131_cov_0.051357	1131	0.6905393457117595	e6c25f42fbd162f39eaddf6f9b782bb5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_200260_length_1130_cov_0.053346	1130	0.679646017699115	f00782d48e2840a5489ccca4b309fef1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_201022_length_1128_cov_0.050534	1128	0.7180851063829787	b22c19976f10d9f4caf65b41e97db347	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_203115_length_1122_cov_0.054741	1122	0.6524064171122995	6c1f399d7e3be3436b6cb0a854ec3698	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_203743_length_1120_cov_0.079334	1120	0.6607142857142857	7da20058e4d9b2cb4283724ce2081278	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_204225_length_1119_cov_0.061765	1119	0.6487935656836461	1b4b22e2647f419639b26aa3456044ce	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_208397_length_1108_cov_0.058474	1108	0.6462093862815884	6770423390c94dfc2dd1ec03763d3599	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_209327_length_1105_cov_0.284294	1105	0.5167420814479639	1dc09457b926931c60f75e8e39b38947	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_211412_length_1100_cov_0.065934	1100	0.3563636363636364	c4b0177a419ace33347fee6569ba01e6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_212504_length_1097_cov_0.106212	1097	0.6572470373746582	8904a297e6fa40b55102825b7a97a569	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0380652	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_212946_length_1096_cov_0.087262	1096	0.6359489051094891	407bc873c39eb4e8815e655758ef80b4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_214968_length_1091_cov_0.068548	1091	0.620531622364803	b3984bf8c6e71fe3753df93d51dc99d1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_215132_length_1091_cov_0.036290	1091	0.6379468377635197	9633831e8c89721ffbda31805c200ee2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_216015_length_1088_cov_0.123357	1088	0.5128676470588235	0e977fb461855ebc9b5415741b33da3c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_216574_length_1087_cov_0.065789	1087	0.6448942042318307	bbe479375dfe2ecb8c39072b0a45cb2f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_217967_length_1084_cov_0.047716	1084	0.7112546125461254	190765d274e5397abc540864b8d0df51	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_220112_length_1079_cov_0.042857	1079	0.6784059314179796	da425a27e96d4868c90a01b299b5f501	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AB593	-	NODE_221622_length_1075_cov_0.073770	1075	0.6632558139534884	edb9666399a6ea16dd8b0fdb58b1725c	not tested	-	-	-	-	-	-	-	-	-	CP010955	0.027077	Sphingobium sp. YBL2	-	-	-
+filtered_contigs.plasmid	plasmid	AB593	-	NODE_222800_length_1072_cov_0.141829	1072	0.628731343283582	f5029f7b160e1ccf59cac4a4497e3b59	not tested	-	-	-	-	-	-	-	-	-	CP010955	0.027077	Sphingobium sp. YBL2	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_227737_length_1061_cov_0.038462	1061	0.6154571159283695	956af99626113891f2c37fb8afa0c77c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_228110_length_1060_cov_0.050989	1060	0.7264150943396226	1456d2a71209c48e32569b99e361ed28	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_229302_length_1057_cov_0.068894	1057	0.5846736045411542	edd8fc5eff30c225d5dad2ab85c3d7a4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_233854_length_1047_cov_0.079114	1047	0.6341929321872015	c5a08c3b88b907ff48aaaccda95d9184	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0380652	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_236146_length_1042_cov_0.060445	1042	0.6017274472168906	f63aaa460dbfd2f32e72bdc937f2fd2a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_242106_length_1029_cov_0.166667	1029	0.47327502429543244	e60bd3d4702d716d0949bf1400261129	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_247498_length_1018_cov_0.082699	1018	0.38212180746561886	6689f761651a48360a822a7cff319f01	not tested	-	-	-	-	MPF_I	NC_019394_00097	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_247984_length_1017_cov_0.078431	1017	0.37954768928220256	6a17c0e42bb57639fdb394965954e028	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_248049_length_1017_cov_0.065359	1017	0.672566371681416	0ab1698c50e3ea84db3e1184b900fe9a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_248767_length_1016_cov_0.038168	1016	0.6771653543307087	e5aa693377b82b3ff157ca083783cd88	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_254432_length_1005_cov_0.035320	1005	0.5532338308457712	db892b560a115b63d5a0f1e39a1ed9cf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AB593	-	NODE_255658_length_1002_cov_0.086379	1002	0.6087824351297405	0f11fe04e110b7196c8fc5e4c41d4437	not tested	-	-	-	-	-	-	-	-	-	CP010955	0.027077	Sphingobium sp. YBL2	-	-	-

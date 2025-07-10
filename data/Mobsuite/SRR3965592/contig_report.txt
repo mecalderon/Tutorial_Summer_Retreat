@@ -1,0 +1,151 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+filtered_contigs.plasmid	chromosome	-	-	NODE_15_length_38192_cov_3.143123	38192	0.36033724340175954	f154b2d57f9a0aaed768680268c8ad10	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_264_length_9794_cov_2.635998	9794	0.5985297120686134	77da8355cad21550e949b3028c4050ad	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_279_length_9587_cov_3.750949	9587	0.4519662042349014	3e67c75bac311010a0def52deccaa9e2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_369_length_8129_cov_2.134496	8129	0.5069504244064461	dbe4910a4020a75e563fbdbd0819f739	not tested	rep_cluster_613	002061__CP022420_00034	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_536_length_6423_cov_2.031942	6423	0.5699828740463958	eca06ebb0ed46bfb1499f1c5a48a35db	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_551_length_6311_cov_2.516098	6311	0.4829662494057994	08bfe8fe05405eeaa1d61bfc102c0a8d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_739_length_5419_cov_2.253759	5419	0.5768591991142277	4519563b808299ac1122227fb3b4a889	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_813_length_5166_cov_2.009670	5166	0.3439798683701123	db4da6ae7a6f2668eba14bfa0089ee5a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_724443195f223a010019f4265518f1a9	-	NODE_962_length_4733_cov_1.826068	4733	0.5362349461229664	a4e9c285e1423efab158e86550732381	not tested	rep_cluster_558	001954__CP015042_00026	-	-	-	-	-	-	-	CP018078	0.0949813	Sulfitobacter sp. AM1-D1	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_1025_length_4570_cov_1.552673	4570	0.6308533916849015	8e9486be09c84b320fa99543f693c9f5	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1033_length_4556_cov_2.010321	4556	0.5638718173836699	6a366072ab6b66b994b508e911592904	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1049_length_4532_cov_1.636364	4532	0.40114739629302737	c5336ed42309d72ad20ff582187296a9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1097_length_4435_cov_1.855397	4435	0.5632468996617813	d749c28be3fc6c99044c4d1162f68deb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1208_length_4245_cov_1.799325	4245	0.5681978798586572	11fee820341fead82c8c1bfeabbfd99e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1303_length_4091_cov_2.224950	4091	0.5201662185284771	4250340056ce97bc7db23b85ccac7a18	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_1354_length_4017_cov_1.623532	4017	0.6026885735623599	4fa5da23587f3a3bf8ae2fed987bf2d0	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1364_length_4003_cov_1.576844	4003	0.6090432175868099	344ada00cd7bf289c693be74960aed41	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1489_length_3870_cov_2.450013	3870	0.5904392764857881	ebfc53a3934cd68be4d204c1fa30f726	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1589_length_3753_cov_1.877942	3753	0.550226485478284	0e0adc6ffe92c93d9d45dff1145ca68b	not tested	-	-	-	-	MPF_T	NC_008042_00056	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD642	AN262	NODE_1753_length_3579_cov_1.960057	3579	0.3492595697122101	2c8ff19685af2f889e2cf30b10d9b624	not tested	rep_cluster_1171	000452__NC_010401_00001	MOBQ	NC_010401_00007	-	-	-	-	-	CU459137	0.00759618	Acinetobacter baumannii AYE	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1792_length_3545_cov_2.103598	3545	0.385049365303244	7c2a85735970a4ad64dcaf0a93e2f7df	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1853_length_3501_cov_1.858613	3501	0.5841188231933733	4eeabda34d27aeb779eb627205bcb429	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1889_length_3461_cov_1.960143	3461	0.4929211210632765	b0084aa847f5ea5a6c3e47ef5e7aaf0e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_2006_length_3382_cov_1.558331	3382	0.589591957421644	016ffb2e9fe7c6d89f5f6dfa163fe8a5	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_2030_length_3366_cov_1.790634	3366	0.6039809863339275	e5a0e6648eacf6a340e7532d4b205568	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_2098_length_3305_cov_1.758890	3305	0.5751891074130105	81d9e9ed30652910a4fa80d171794331	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_2170_length_3256_cov_1.433323	3256	0.6121007371007371	d72130185fd9729844c4d007872ed413	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_2223_length_3214_cov_1.771108	3214	0.5843186060983199	2315ae2c30a66470e94d6aaf965dfb54	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_2290_length_3181_cov_1.648929	3181	0.6117573090223201	0adff18fc432533f081a4cf7119fe367	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_2320_length_3161_cov_1.703135	3161	0.5931667193925972	3026535b7b37e9bbd128623c98260f53	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_2392_length_3122_cov_2.080715	3122	0.5746316463805253	7b00adb31c59096b354b0337d395de93	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_2483_length_3069_cov_1.683165	3069	0.5663082437275986	c9028031df7e9c29781ab1fc2022c514	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_2615_length_3007_cov_1.668157	3007	0.5693382108413702	ebbbd052d068bed3ebf68c151397b120	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_2730_length_2949_cov_1.390877	2949	0.6293658867412683	bcccaa0d2c71c12db9f55d5fd8cedee0	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_2798_length_2919_cov_1.854965	2919	0.5906132237067488	1d24f269d3e26d7f2b53e5df3d3ebb0e	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	novel_724443195f223a010019f4265518f1a9	-	NODE_2813_length_2908_cov_1.743325	2908	0.6103851444291609	9275a59b1b214b5345748a6c52c3930c	not tested	-	-	-	-	-	-	-	-	-	CP018078	0.0949813	Sulfitobacter sp. AM1-D1	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_2825_length_2903_cov_2.077389	2903	0.6286600068894247	4fab428b6be8fac2027c67a8dd262a31	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_2877_length_2882_cov_1.562702	2882	0.5843164469118668	5af5c4f0c1a8dcf0648e1166dc6e4a80	not tested	-	-	MOBP	CP025812_00016	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_3097_length_2797_cov_1.661601	2797	0.5688237397211298	be433f6aa0236d47191d45594af4f36c	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_3139_length_2778_cov_1.600597	2778	0.595752339812815	1a29f756ad7e8001f3bcf368ebbc55b8	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_3165_length_2767_cov_1.835457	2767	0.5995663173111673	bbd61916c8cb1cd4888c09c7fb3126bb	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_3316_length_2712_cov_1.423651	2712	0.6272123893805309	ff8f2d5213a5d0d73963a51cf656ac21	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_3358_length_2694_cov_1.281696	2694	0.6343726800296956	a8c62b0b9529e6f7ab00df67d1c48543	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_3385_length_2683_cov_2.014319	2683	0.5900111815132315	03a533f397b5200221ab5fd149fcf1ed	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_3557_length_2620_cov_2.138437	2620	0.5797709923664122	d4f07b2853c9ada462d3f91f60371837	not tested	rep_cluster_579	001983__CP021432_00100	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD731	-	NODE_3807_length_2533_cov_1.346343	2533	0.3616265298065535	542d6e21943d2a5832922b01a0425463	not tested	rep_cluster_1223	000520__CP010352_00002	-	-	-	-	-	-	-	CP042564	0.045678	Acinetobacter baumannii	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_3920_length_2498_cov_1.586078	2498	0.6365092073658927	37426695823b2ab63dd84c983f4ad852	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_4019_length_2467_cov_1.728463	2467	0.6339683826509931	a4409c50af83dc41c0c92a4a34ce454c	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_4279_length_2402_cov_2.130699	2402	0.578684429641965	da683455139874f17107c1eefd97ee3b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_4394_length_2378_cov_3.047828	2378	0.5849453322119428	9cd763888f26d0d5d3edfdc824eee2e3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_4415_length_2373_cov_1.777045	2373	0.5743784239359461	0e77d3e08d309aac3cdd346c247e943a	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_4517_length_2349_cov_1.401333	2349	0.6155810983397191	d80d0dcdf9d8fe22f770fc9d8cb759d2	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	novel_724443195f223a010019f4265518f1a9	-	NODE_4603_length_2329_cov_2.230045	2329	0.5968226706741091	8f1fdad817332c84f1a524f434adfcce	not tested	-	-	-	-	-	-	-	-	-	CP018078	0.0949813	Sulfitobacter sp. AM1-D1	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_4664_length_2313_cov_1.713189	2313	0.5486381322957199	217e992b05535e06cd4f50aee8217932	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_4711_length_2299_cov_1.861818	2299	0.6172248803827751	01d2cf5defbe4a16407c97dfbfe3152b	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_4766_length_2288_cov_1.162175	2288	0.6560314685314685	b84b37d7442e85d4d48dbd0e62dd3db4	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_5133_length_2225_cov_1.373001	2225	0.6062921348314607	3d33d6c1946446f8cc1380483b6f5893	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_5225_length_2210_cov_1.182378	2210	0.6339366515837104	4f821d836dc20ed8bf1da155a953d539	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_5231_length_2209_cov_1.138863	2209	0.6509732910819376	fba7608753e64d1583ed0d8841f1f353	not tested	-	-	-	-	MPF_T	NC_014005_00036	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_5705_length_2127_cov_1.843688	2127	0.614010343206394	82d76ab64eb8ded8de6fa33698992c16	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_5787_length_2113_cov_1.889275	2113	0.5560814008518694	ca9e24b914c36d2aea872ee1e8eea29a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_5797_length_2112_cov_1.637357	2112	0.578125	29346b617c149396ce2b562eafe6da55	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_5887_length_2099_cov_1.569500	2099	0.6136255359695093	0183f10d70113cc068012037f7defd47	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_5931_length_2093_cov_1.893180	2093	0.5790731008122313	0541d6a93e6be52f94f0dc52e2335a87	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_5984_length_2084_cov_2.297733	2084	0.5652591170825336	c573e5894d6909176995b384db5a867a	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_6008_length_2081_cov_1.874874	2081	0.478135511773186	de38532a853f723e3bbdcc76c4375e66	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_6102_length_2070_cov_1.464231	2070	0.5840579710144927	94b30a393e3e83f0cf098f8a50c0c42a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_6257_length_2048_cov_1.442278	2048	0.5869140625	c4a6d2eaf17acc6d6ee79743e266bc27	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_6464_length_2019_cov_1.421875	2019	0.6230807330361565	e45a421a89ae0bdc821c7dea29238ed2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_6482_length_2016_cov_1.631195	2016	0.6111111111111112	89570c04d9d6975e89a16f014bb553cd	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_6582_length_2002_cov_1.506569	2002	0.6133866133866134	71dbafc1710ecfa924f704b31c9afa45	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_6806_length_1969_cov_1.644920	1969	0.6074149314372778	c1536343618eec82675c38e859e9bdd6	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	novel_724443195f223a010019f4265518f1a9	-	NODE_6869_length_1961_cov_1.809345	1961	0.5823559408465069	d138c29ecb39c26bd6b8a892f53e714c	not tested	-	-	-	-	-	-	-	-	-	CP018078	0.0949813	Sulfitobacter sp. AM1-D1	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_7310_length_1910_cov_1.634456	1910	0.6057591623036649	aca72fcf119d1d745f145ca92c43d8ca	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_7364_length_1904_cov_1.356233	1904	0.5929621848739496	07e5b0b20a5fbe3b43d26b5bfe982df5	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_7486_length_1891_cov_0.994420	1891	0.659439450026441	006b3b526815a94bd6774446559a0d4a	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_7536_length_1885_cov_0.921613	1885	0.6482758620689655	555de5c51b6a4c44caf61de8d2635c35	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_7798_length_1856_cov_1.843483	1856	0.6260775862068966	dd74e67f88e4d76183366c8bb6ac0462	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_7967_length_1838_cov_1.886141	1838	0.5369967355821545	dfcf55db4d169cecc6d45267ea3f21be	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_8046_length_1832_cov_1.674553	1832	0.5829694323144105	8dc4f645e246756d9aef4857857a8900	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_8172_length_1821_cov_1.134146	1821	0.5930807248764415	a440c6ebf3594c011ee531a136e296ae	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_8414_length_1797_cov_1.294464	1797	0.5954368391764051	77b5cb9f62cd58c9af08e829c61d7365	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	novel_724443195f223a010019f4265518f1a9	-	NODE_8548_length_1785_cov_2.194543	1785	0.5350140056022409	5411b2172070667d7f1e84c43df85196	not tested	-	-	-	-	-	-	-	-	-	CP018078	0.0949813	Sulfitobacter sp. AM1-D1	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_8612_length_1779_cov_1.972024	1779	0.6256323777403036	9204114eadce074ef58c71c505173692	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_8876_length_1756_cov_1.533494	1756	0.6053530751708428	43ed15ab7edc5908a7f1a54df681031a	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_8891_length_1755_cov_1.506039	1755	0.6433048433048433	498ecf204067a82cf1ed171479050139	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_9035_length_1742_cov_1.779063	1742	0.6148105625717566	95f2888425b1432388e4d16c1b7384fc	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_9095_length_1737_cov_1.400488	1737	0.6108232584916523	301efa418921b5120c7fdbd4a2021575	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_9149_length_1732_cov_1.740968	1732	0.5617782909930716	c606a281062e95d9ac947497c8f414b8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_9192_length_1729_cov_1.596319	1729	0.5991902834008097	b4d3da4ce5d706934484d475a6e96c70	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_9317_length_1719_cov_1.817901	1719	0.5828970331588132	ad94cf58c17cb06f7a394d8817d53084	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_9403_length_1714_cov_1.421053	1714	0.6312718786464411	5e8f0ca831d5805eeb08dcac8b6dd7b0	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_9580_length_1700_cov_1.461587	1700	0.5894117647058823	a842c6fbd766045be47b584ace518c2d	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_9828_length_1682_cov_1.449147	1682	0.6296076099881094	b7e8f25cbfbab10ec7f8954e3890a278	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_10182_length_1657_cov_1.442875	1657	0.6077248038624019	f9a75698d887a558dfb54f2a09fd4da6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_10318_length_1648_cov_1.502905	1648	0.5928398058252428	02d4d9d2884063f60b1dbd708c718a9d	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_10351_length_1646_cov_2.033613	1646	0.5364520048602673	64b513db5f9ac96e4f199e9fb7f30099	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_10431_length_1639_cov_1.741558	1639	0.6418547895057962	edd35699fd91ef932247dded5f679e78	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_10550_length_1631_cov_1.205614	1631	0.6180257510729614	0c7ff51d519bafbca6007d434f6556b1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_11222_length_1587_cov_1.784946	1587	0.55765595463138	ddd7678b08e7c569756f6489b7788ab1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_11470_length_1573_cov_1.755088	1573	0.575333757151939	956443003f3c6cd2f341f83210e703cf	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_11970_length_1544_cov_2.004152	1544	0.538860103626943	742bd0e3a89df09802622f1236e89d02	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_12087_length_1538_cov_1.230021	1538	0.6644993498049415	102ba6e7ffe69f79e234a438069cab91	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_12335_length_1524_cov_2.190175	1524	0.45144356955380577	243e1cc31c863dffa12f40d7e9855f5d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_12442_length_1520_cov_1.152709	1520	0.6157894736842106	75f476c584b13cd7e2e48f3ae096add5	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_12495_length_1517_cov_1.529619	1517	0.5899802241265656	04e089ce324b26ce998363875d52d11c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_13022_length_1489_cov_2.002158	1489	0.6346541302887844	68b8d5e3f14a6fcd15b5ffb424f375ee	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_13099_length_1485_cov_2.013709	1485	0.5932659932659933	b1f2691b8676ce2a917e50870aaa4a16	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_13203_length_1480_cov_1.322954	1480	0.6182432432432432	8a143d47bde922f688350d2bbde38680	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_14827_length_1405_cov_1.625574	1405	0.5238434163701068	ba87d5b6c6645e67359c96071d707aca	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_15014_length_1398_cov_1.294072	1398	0.5972818311874106	f54324c4a12287530fb945a70b62ac68	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_15371_length_1384_cov_1.506615	1384	0.611271676300578	e342088a7ad8c465a262c48910867ab1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_15836_length_1366_cov_1.689818	1366	0.5095168374816984	16107508c9700f20ddeaf30e42e80041	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_15954_length_1362_cov_1.817102	1362	0.5675477239353891	a27e76a283c5ce79248593d2c7ca9bf7	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_15983_length_1361_cov_1.441363	1361	0.6083761939750184	27017bc4313c491765e32e64ce66b6f3	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_16466_length_1344_cov_1.365462	1344	0.6004464285714286	4fff8771edf8e7cb84fa992802f1ac81	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_16619_length_1339_cov_1.476613	1339	0.6445108289768484	4d60ad58484c54b3dfc5316b87e8c309	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_17498_length_1307_cov_1.703642	1307	0.6113236419280795	d3deb6cf69ec2dead4bcf92729811276	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_17739_length_1299_cov_2.356667	1299	0.5465742879137798	266f599c7633802edd59bc35997c0395	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_19531_length_1244_cov_1.720524	1244	0.5739549839228296	3c776da1187323230f7ca0ad0b8ccec8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_19777_length_1237_cov_1.475395	1237	0.5998383185125303	15363db4baa41c43983655a935551ae7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_19933_length_1233_cov_1.485891	1233	0.5296025952960259	191bcfb182887bc46b6b4eb93e184644	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AD642	AN262	NODE_20583_length_1215_cov_1.973118	1215	0.34732510288065843	82f81035a880979b4316c482198d4e5c	not tested	-	-	-	-	-	-	-	-	-	CU459137	0.00759618	Acinetobacter baumannii AYE	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_20667_length_1213_cov_1.588869	1213	0.5234954657873042	27d64c84d95b2059e6a6150925c0c30e	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_20840_length_1209_cov_1.610811	1209	0.6335814722911497	460ad69bd2076763d1a204eb40c2f2ad	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_20867_length_1208_cov_1.979261	1208	0.5794701986754967	3f1f134300a5ec1edf442b41ffaef9ea	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_20924_length_1207_cov_1.773466	1207	0.5915492957746479	8b5704b3d81a1529b806cfdb524e31e7	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_21352_length_1195_cov_5.094891	1195	0.5523012552301255	62527fbe66f9020934522a32ef26e181	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_21807_length_1185_cov_1.383057	1185	0.6683544303797468	71ba1fd9dfb7bac1600506561c2a8daf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_22276_length_1174_cov_1.802791	1174	0.5391822827938672	39958a56e351d082487d4cc66d01a7e3	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_22413_length_1171_cov_2.142724	1171	0.5644748078565329	2de03e3f464c40db99aa4411b6666c07	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_22572_length_1168_cov_1.497661	1168	0.5419520547945206	dd5376bf6319ea9f761280043b95f5ed	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_22870_length_1162_cov_1.084666	1162	0.6239242685025818	b72b8d7229bc40e3776b8fd7c42e649e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_22999_length_1159_cov_1.327358	1159	0.6108714408973253	6bb5dff9d4de49d596cebc6d0a6f2147	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_23978_length_1137_cov_2.120424	1137	0.6068601583113457	56b3a5ed1a0536d328a41cbc8b48fac8	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_24230_length_1131_cov_1.756783	1131	0.5817860300618921	b41d5788993de123952af7e2ee0d6099	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_24610_length_1123_cov_1.938477	1123	0.5645592163846839	c609c6ea505f69cf12028581ad864835	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_25278_length_1110_cov_2.070227	1110	0.6135135135135135	cc7453297e4c6ec11e62eb5ac19286bc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_25376_length_1108_cov_2.332012	1108	0.5550541516245487	6d077f2a4f79d79f167fb14c6ed14170	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_25841_length_1099_cov_1.448000	1099	0.5277525022747953	f6c4dea88c7d68cbc7767c48eac52812	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_26989_length_1077_cov_0.962168	1077	0.3593314763231198	ec2ed6314267a885a7a8a1e5e042a965	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_27061_length_1075_cov_1.612705	1075	0.6251162790697674	0cfa8be2c0a8bc9c332af3ceecb1e8fb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_27497_length_1067_cov_1.635331	1067	0.5773195876288659	dd0ef08ce8fefc633d27c8da9fbedf69	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_29303_length_1035_cov_1.621795	1035	0.6289855072463768	bb908fc80a3ac02dd3cd7e8e02c7bcae	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AG697	-	NODE_29367_length_1034_cov_1.576471	1034	0.5880077369439072	a99da771599d73ee7ccab260e80a2cdf	not tested	-	-	-	-	-	-	-	-	-	CP025810	0.0574401	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_29757_length_1028_cov_0.708288	1028	0.47568093385214005	64d0d6b817dc69e8f20c7226764c9d36	not tested	-	-	-	-	-	-	MOB_unknown	NC_021817	-	-	-	-	KX243413	ISVvu2	repetitve element
+filtered_contigs.plasmid	chromosome	-	-	NODE_29825_length_1026_cov_10.066882	1026	0.49610136452241715	3a5e6cedd19a26c9e75ebe6e4ac6e502	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AC809	-	NODE_30317_length_1019_cov_1.615217	1019	0.6290480863591756	d72bea153c1b54a5864e18343dbe62e5	not tested	-	-	-	-	-	-	-	-	-	CP025809	0.0491	Sulfitobacter sp. SK025	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_30626_length_1014_cov_2.081967	1014	0.5877712031558185	b8b5097c4579e7ce3b0044a63bbccd83	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_31180_length_1006_cov_1.056229	1006	0.588469184890656	fe75da0a027d6f700a021726584860d3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

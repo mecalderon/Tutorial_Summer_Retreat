@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+filtered_contigs.plasmid	chromosome			NODE_112_length_21981_cov_0.359382	21981	0.5037077476002002	e74e438979c090f60528eb10b0e4c190	01314	CP002457	ISPpu12	ISL3	3372	1	3372	6544	9904						

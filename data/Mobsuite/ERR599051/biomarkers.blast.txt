@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002400__CP004397_00001|rep_cluster_914	NODE_367_length_20545_cov_0.351462	1035	20545	1	1035	11043	12077	1036	166	83.78399999999998	100.0	100.0	plus	0.0	981	replicon
+002399__NC_008388_00019|rep_cluster_914	NODE_367_length_20545_cov_0.351462	609	20545	1	605	11469	12073	605	48	92.066	99.0	99.0	plus	0.0	852	replicon
+NC_008388_00003|MPF_T	NODE_367_length_20545_cov_0.351462	550	20545	1	549	8595	10241	549	29	94.718	99.0	99.0	plus	0.0	1031	mate-pair-formation

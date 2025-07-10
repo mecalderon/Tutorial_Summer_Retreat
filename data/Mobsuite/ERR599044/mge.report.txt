@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+filtered_contigs.plasmid	plasmid	AF260		NODE_16816_length_3303_cov_0.786517	3303	0.4150772025431426	86392a77a808352f97c53d9a4b684568	01389	MF344565	ISKox2	Tn3	3211	1	3210	90	3300	3211	minus	99.0	99.969	0.0	5923

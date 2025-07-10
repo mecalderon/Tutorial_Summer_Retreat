@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_019394_00086|MPF_I	NODE_3600_length_4729_cov_0.093737	799	4729	1	799	377	2773	799	45	94.368	100.0	100.0	plus	0.0	1385	mate-pair-formation
