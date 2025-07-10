@@ -1,0 +1,144 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_22_length_101607_cov_0.660825	101607	0.609003316700621	83ff2609a80c285a28cdcb5857d51754	not tested	-	-	MOBF	CP015441_00197	-	-	-	-	-	CP015441	0.026819	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_28_length_95596_cov_0.586259	95596	0.6088120841876229	fd7670ad669ab5f1b66e96222ee3c07c	not tested	-	-	MOBQ	NC_008036_00003	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_36_length_83328_cov_0.561787	83328	0.6119191628264209	49a49e370483b5a4476aefdc81c33109	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_70_length_57987_cov_0.859332	57987	0.6090330591339438	ac10249e63acbd23e15a2ae1db2080fd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_92_length_43094_cov_0.842982	43094	0.6180674803917019	381281fa53cd509253930ac4fec473b6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_99_length_40422_cov_1.347940	40422	0.628717035277819	f1d672a7f462a3a2bb0ed17851fe0780	not tested	rep_cluster_1149	000427__GU811235_00024	MOBQ	NC_020542_00048	MPF_T	NC_020542_00042	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_101_length_39540_cov_0.320859	39540	0.4374304501770359	92b13abd05c4e889b9bea27731927c1d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_159_length_27348_cov_0.388124	27348	0.5143337721222758	5eaf77531ffa7a451f8d15bf866b70cf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_180_length_24742_cov_0.684616	24742	0.5760649907040659	efa5cbffe0a26bac625549e16beccc78	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_220_length_21652_cov_0.331137	21652	0.5703861075189359	1fb2ce7b7dbd1ff2291e372c9cdf83b9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_328_length_16562_cov_0.406852	16562	0.5192005796401401	a8479730507d10dd957a5164aef54012	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_1206_length_9705_cov_0.655840	9705	0.6096857290056672	a0fc3866587d3d8b9209cb42bd0fd720	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.026819	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_1246_length_9591_cov_0.167720	9591	0.4970284641851736	1e38fb0fdea7e94d4ed44184f2113fa4	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1889_length_8032_cov_0.093029	8032	0.6297310756972112	7b93e1bebf8858b0e288a48865a36eae	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_2019_length_7830_cov_0.288061	7830	0.3874840357598978	fd9b18f46d41d4c1109d37b5c5c1f9e9	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_2802_length_6815_cov_0.241066	6815	0.43374908290535585	fb91713aa383642060cdea5beba34ca2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_3025_length_6626_cov_0.111230	6626	0.4086930274675521	b2b72cd1666af8338e7dde81ba75cfc1	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_3086_length_6576_cov_0.395862	6576	0.4631995133819951	8c3b07ffab852b9b400dc8b7fc8a064d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_3553_length_6189_cov_0.111330	6189	0.37308127322669254	42714b75ba7e6d33820624267a7963fc	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_3821_length_5998_cov_0.120698	5998	0.41097032344114703	a9acb7bc0416574d14c7440f11fc25b0	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_3982_length_5895_cov_0.143547	5895	0.628498727735369	99adf864f8af79e1277a31a9ad21657b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_6486_length_4800_cov_0.272282	4800	0.538125	938dc5a50924a2f2573d808298a1a091	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_6658_length_4751_cov_0.110490	4751	0.4114923174068617	cc2351f00bb18b2f4c2adeb3adc90bf6	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_6817_length_4705_cov_0.103126	4705	0.573645058448459	48fb5effb085e485971acd8ef15cc0ae	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_8915_length_4187_cov_0.122309	4187	0.4141390016718414	84e08d9e0280ad39a4c67b75a225cc5e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_8962_length_4180_cov_0.092379	4180	0.41842105263157897	7979d9e99b00602071459c9c95ab9910	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_9915_length_4006_cov_0.099053	4006	0.4987518721917124	b83aba01236b955cf5589bbca38c62d2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_10065_length_3984_cov_1.666409	3984	0.5411646586345381	ad2e8c231aa212bcdc723c9a813f359b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_10243_length_3957_cov_0.249870	3957	0.4131918119787718	9fc22571ecc454a4e607700f0aeced3c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_11229_length_3803_cov_0.082343	3803	0.6018932421772285	b53b40f1778492dafd73c6bb2414a16f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_13606_length_3510_cov_3.098212	3510	0.466951566951567	da0d41536ae5f85942f782b794cfd7b3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_13853_length_3482_cov_0.109666	3482	0.46094198736358416	bd9f59cf9ad1430ef127efec554a890c	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_14547_length_3413_cov_0.116476	3413	0.4450629944330501	713a12ace24a152c9f6f150831ca13c1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_14712_length_3397_cov_0.086416	3397	0.4191934059464233	fbf8deb6453aa98c663ee53e654f6563	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_15536_length_3322_cov_0.102079	3322	0.3913305237808549	042e1520a57afd5063210fa77c405a96	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_15751_length_3302_cov_0.062441	3302	0.5893397940642036	0c33947e3eed97dc79eca57e20dfa052	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_16713_length_3223_cov_0.112996	3223	0.38194228979211914	e95cde4eb911c9c131cdd5730f2039fd	not tested	-	-	-	-	MPF_I	NC_019394_00072	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_18179_length_3111_cov_0.107902	3111	0.4024429443908711	5d8c6ebd6a1d904f1e4560ce7a46aca8	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_18307_length_3102_cov_0.087579	3102	0.3971631205673759	da1b7cea85011f0ee37b6a9d76d8fc8f	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_20408_length_2958_cov_0.091291	2958	0.594658553076403	199273300c4d15b3c6cbabb8530db4cd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP003505,AP009387,AY540995,JF274989,MF168946,HQ891317	IS1071,ISBvi5,ISCARN41,ISCsp2,ISMca2,ISRme4	repetitve element
+filtered_contigs.plasmid	chromosome	-	-	NODE_21203_length_2908_cov_0.076896	2908	0.5529573590096286	102c351f7763dd62174d738a051f81df	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_23352_length_2784_cov_0.109125	2784	0.4155890804597701	4a7a9171bf44e495a7af4f00470923e9	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_24312_length_2737_cov_0.047384	2737	0.6265984654731458	5cabaaf2186aec4158c9449516383905	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_26921_length_2621_cov_0.109833	2621	0.3880198397558184	f71a373202da32a859aee08b11e30f24	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_27649_length_2590_cov_0.083501	2590	0.422007722007722	e2c08ec0785342500a706421721d277e	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_27781_length_2584_cov_0.050302	2584	0.5901702786377709	ca98a9c89fccde0945b67c9f64ea8df5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_29658_length_2513_cov_0.063380	2513	0.48587345801830484	631181f7ec5d9888813f43d23acf0007	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_29813_length_2507_cov_0.145349	2507	0.37933785400877545	933c6bda5f82ed95632edc103b2e2be0	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_31544_length_2443_cov_0.090444	2443	0.37576749897666806	0dfeb2001464dd6ee61a5ae8a473e6a1	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_31826_length_2434_cov_0.123340	2434	0.35949055053410023	a30270a787acfc24a795ba9aedd773f4	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_32007_length_2428_cov_0.103049	2428	0.5712520593080724	9f6e3ff5816e8a94bc96d98bb857b792	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_32052_length_2427_cov_0.093213	2427	0.6126905644829007	201cab82d7318b9b13c5a9a5f8645f9f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_32295_length_2419_cov_0.114655	2419	0.6056221579164944	55c80172add1a99bbb76c14d1fc64c11	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_35275_length_2330_cov_0.104886	2330	0.5502145922746781	a576b97c8e9893d04be584d80ffbfe24	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_35277_length_2330_cov_0.095025	2330	0.40643776824034333	7c74088849256d0bfcecd83222c30512	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_35627_length_2320_cov_0.075191	2320	0.41120689655172415	e7103e24ea266bae6c76070a4ea282ce	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_37523_length_2269_cov_0.124424	2269	0.623622741295725	8df51910cb73b888111075ea7fdfda50	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_39274_length_2224_cov_0.086588	2224	0.5926258992805755	af3e813d4f7344d9a4aae5c521eb4255	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_39361_length_2222_cov_0.052285	2222	0.6201620162016201	49f73ef1b79e22fb98dd97496a371c69	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_40578_length_2192_cov_0.106546	2192	0.3521897810218978	3aa98b61724f5b4260333f7d57c009d5	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_44167_length_2110_cov_0.037295	2110	0.6132701421800948	03802db87e276cae0a7fc263f1cabfe6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_45626_length_2079_cov_0.103030	2079	0.43193843193843195	31b9f042ac992ee2610fa27752de8f50	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_45925_length_2073_cov_0.091692	2073	0.5894838398456343	8b0da2e96907feb068dfde755145d395	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_50701_length_1981_cov_0.078640	1981	0.5628470469459869	86a03f5dedaf08476858ec4ddb4fdad7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_51246_length_1971_cov_0.141560	1971	0.3820395738203957	e1a3d28ea679f6bf0615298546a5139b	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_51372_length_1969_cov_0.081283	1969	0.39512442864398173	3c54a3259f3a5b305101497c745473d3	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_54097_length_1924_cov_0.091507	1924	0.40436590436590436	1e3e07ea5a0cc5c1cdfacb8c23535792	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_55760_length_1898_cov_0.088938	1898	0.5895679662802951	f0d6132045ffe6485ac79da470efcd55	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_59151_length_1847_cov_0.114989	1847	0.4206821873308067	c1b02c35261d0b00c11f483fbaf0e6d0	not tested	rep_cluster_1403	000742__JQ348844_00001	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_59338_length_1845_cov_0.038373	1845	0.5821138211382114	d64d3acfa1a012a8bce7d98fc1acfc20	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_61240_length_1818_cov_0.150087	1818	0.4367436743674367	1612caac7ec7f6803e8ebd60fafe21cd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_1eed6e415f7cb450b554635e8d398ed4	-	NODE_61326_length_1817_cov_0.131548	1817	0.5030269675288938	2ce00eb424ada660e5f28c57d31f309b	not tested	-	-	-	-	-	-	-	-	-	CP022516	0.0914855	Arenibacter algicola	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_65720_length_1762_cov_0.101624	1762	0.41146424517593644	15f88d30cfc34a8432895bd022370d55	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_67074_length_1746_cov_0.143291	1746	0.1145475372279496	2da94845eda313f2bdb8e6d94e340a34	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_68102_length_1733_cov_0.117503	1733	0.5643392960184651	98ebc3452543f9d7da2dc89e93ed64b5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_73268_length_1676_cov_0.038681	1676	0.6133651551312649	a51541538d228f39cead2235111acddb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_74362_length_1664_cov_0.055591	1664	0.5162259615384616	9dbe7b774acaec028da08f4b0f35653e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_76676_length_1641_cov_0.051232	1641	0.6392443631931749	831f368574faac153da47310db1ea5ab	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_77627_length_1632_cov_0.106327	1632	0.48590686274509803	a0b83cb6bd6d91fdb3403b3f17cc724a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_78614_length_1623_cov_0.055774	1623	0.625385089340727	8e7a4b8d29f7e051211e626c04e51057	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_82558_length_1587_cov_0.022849	1587	0.426591052299937	23cb8f878835e518ef004f28322337c4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_85221_length_1563_cov_0.049180	1563	0.6097248880358286	8a0e9cd9ee71947fba778dc1d9c0a41e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_85225_length_1563_cov_0.047131	1563	0.6026871401151631	ca5aa203a89dd58da9e317ac30c5410d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_90672_length_1518_cov_0.086681	1518	0.43873517786561267	251bc06f148056305cef096543367ec0	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_96573_length_1474_cov_0.109818	1474	0.5617367706919946	bbe3c8ab2b1de814033d0baf20c617bb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_97127_length_1470_cov_0.095551	1470	0.40408163265306124	9961c6d2ca33084de87c6526202c9086	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_97605_length_1467_cov_0.046784	1467	0.567143830947512	f505e8ac027ca2f6449580f27fe9bb88	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_97767_length_1466_cov_0.032919	1466	0.568212824010914	5bcbef24e2ae2e19df519f97440cfe2a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_97931_length_1465_cov_0.029283	1465	0.6525597269624573	174c200d66f07ceb50a675c2b5e5e341	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_98022_length_1464_cov_0.068132	1464	0.537568306010929	1ca463a58bbf8ce149d5276b98bb3e5f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_98401_length_1461_cov_0.298825	1461	0.5106091718001369	e55a1bd39b16b0af4c9ac1ff00e897fd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_98859_length_1458_cov_0.079470	1458	0.46844993141289437	b46e176d92e50ae985e8dbfee45f279d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_103906_length_1425_cov_0.040724	1425	0.6505263157894737	f87b4f73babe2ad5bd3cb9a7a77f4890	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_105167_length_1417_cov_0.050835	1417	0.5617501764290755	e9e7778511c99cf214a8a1ac4738a1ce	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_105341_length_1416_cov_0.048595	1416	0.6716101694915254	2a45ae16094cea8b2f0d7b034854d6f8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_105923_length_1412_cov_0.076923	1412	0.43909348441926344	9888571ab36ccd50bad64467f148ed52	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_106316_length_1410_cov_0.049580	1410	0.6702127659574468	b7db4005827826b0432f5722a9a6e692	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_111316_length_1380_cov_0.098361	1380	0.5	168f08451964e17863ba6df5d498f9db	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_113414_length_1369_cov_0.025984	1369	0.6216216216216216	76551813eba9e7e1033852f8d054182e	not tested	-	-	-	-	MPF_T	NC_009955_00053	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_115323_length_1358_cov_0.042891	1358	0.5876288659793815	321a3178f5ebe46ea5813ba87cad7ff2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_116661_length_1350_cov_0.115108	1350	0.5037037037037037	eeaf10a82657f1e1bf0e27b893c1b62f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_3c0ff9f75ac3d4f065c6a5f4532fcf44	-	NODE_119540_length_1335_cov_0.033981	1335	0.6426966292134831	3c0ff9f75ac3d4f065c6a5f4532fcf44	not tested	rep_cluster_578	000938__CP000659_00004	-	-	-	-	-	-	-	NC_009341	0.0974869	Mycolicibacterium gilvum PYR-GCK	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_120042_length_1332_cov_0.055961	1332	0.5668168168168168	81e4843585cd6c80bb3c98887ea2c465	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_121056_length_1327_cov_0.020358	1327	0.5727204220045214	aa5748f290ed65b87e69a31a74ed7d20	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_122293_length_1320_cov_0.076167	1320	0.4553030303030303	991cf064f83b2c772514aeac342f546b	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_128653_length_1289_cov_0.093277	1289	0.33204034134988364	bdea4633cd6a88467ab32a5b141207b6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_128688_length_1289_cov_0.071429	1289	0.39720713731574864	1a670cdf2c8f97a3b63534bde17c3a6a	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_131614_length_1276_cov_0.038233	1276	0.6551724137931034	9f6d473833f279573a83164463e429f2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_133315_length_1268_cov_0.080411	1268	0.48974763406940064	50ae5f18f64890d571f3402b2d5174d7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_136278_length_1255_cov_0.074394	1255	0.595219123505976	6db3cecf66019e8641913d24671305ef	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_139990_length_1239_cov_0.096491	1239	0.510088781275222	78e6a5f5e8e37d25a62736d0ce68cfae	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_147064_length_1211_cov_0.043165	1211	0.6193228736581338	4162b3aefadc0e549792bc72b897e8bf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_1eed6e415f7cb450b554635e8d398ed4	-	NODE_147789_length_1208_cov_0.071235	1208	0.4155629139072848	e5647d2a28003cd58bc3468405c6ba75	not tested	-	-	-	-	-	-	-	-	-	CP022516	0.0914855	Arenibacter algicola	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_152623_length_1190_cov_0.045830	1190	0.6478991596638656	ab953c6068fa85430526852d8314373a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	U12338,MF805806,JF274989,MF168946,DQ517526,JQ899055,KF743817	-,IS1006,ISCsp2,ISMca2,ISRso7,Tn3,TnAs2	repetitve element
+filtered_contigs.plasmid	chromosome	-	-	NODE_155509_length_1179_cov_0.068519	1179	0.6454622561492791	5f424055e28fb07df96e55f40d4fae58	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_157140_length_1173_cov_0.102421	1173	0.39215686274509803	f37d35519ffbdc156ceb01caf2281e99	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_157599_length_1172_cov_0.040075	1172	0.5554607508532423	19458ec69121aea64b9162af014a2d10	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_159013_length_1167_cov_0.041199	1167	0.5938303341902313	80067bd7a6d7c0647211e0fb48065b06	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_162428_length_1155_cov_0.036932	1155	0.6606060606060606	aa476f484fe18cc38cc8d806644c42c6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_162896_length_1153_cov_0.064516	1153	0.39375542064180397	0555e78504a8855225387f895b09cdb7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_164891_length_1146_cov_0.102197	1146	0.39267015706806285	cf030a1926c09cac67750e2d175189a3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_166340_length_1142_cov_0.018217	1142	0.6313485113835376	f107f663fd80890562d8e73216e927ce	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_168679_length_1134_cov_0.051208	1134	0.5687830687830688	6b199d30449b10bddc81a9732eacbfb6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_172368_length_1122_cov_0.115347	1122	0.39126559714795006	5add04850bd206d043dc1ddf2e257e8d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_173931_length_1118_cov_0.016683	1118	0.5885509838998211	e8d85a110b40bad7bb345b55e251fb7d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_175363_length_1113_cov_0.120316	1113	0.4303683737646002	8620b878fad2acc84e69ef16e481dc2b	not tested	-	-	-	-	-	-	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	plasmid	AF003	-	NODE_176318_length_1110_cov_0.125618	1110	0.3810810810810811	1c8ffd1ba468ee113e71c0f43776bddc	not tested	-	-	-	-	MPF_I	NC_019394_00096	-	-	-	CP004854	0.0525139	Alteromonas mediterranea UM7	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_184132_length_1087_cov_0.082996	1087	0.41490340386384544	b7db147aeb5e12c30e8a137d5f3b8f58	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_184714_length_1086_cov_0.035461	1086	0.6243093922651933	bc2bf583af85cccc74be4213a55f8712	not tested	-	-	-	-	MPF_T	NC_022050_00041	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_1eed6e415f7cb450b554635e8d398ed4	-	NODE_185976_length_1082_cov_0.060020	1082	0.4316081330868762	80e266de21f5d9e04f4342987c00236a	not tested	-	-	MOBB	CP022516_00068	-	-	-	-	-	CP022516	0.0914855	Arenibacter algicola	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_190751_length_1069_cov_0.048454	1069	0.5210477081384471	a405146c8a5193fe275fd7e5779b1bc0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_192181_length_1065_cov_0.056936	1065	0.631924882629108	165a7949836996c462682f6f3119f49b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_194174_length_1060_cov_0.041623	1060	0.469811320754717	32a45a59d083fc50c7ffb2859b50ff9a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_198794_length_1048_cov_0.046365	1048	0.5648854961832062	65ebd099892e13e24751021eb9ddf940	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_199007_length_1047_cov_0.094937	1047	0.37058261700095513	4114ef05ed5e7af2647439435c8d9c4b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_200872_length_1043_cov_0.015890	1043	0.638542665388303	ccd9b34f7e980c951681b2f8cf2b5a55	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_201531_length_1041_cov_0.044586	1041	0.6445725264169068	2a453d5c204ccd69895e43d42711402f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_1eed6e415f7cb450b554635e8d398ed4	-	NODE_203012_length_1037_cov_0.069296	1037	0.42912246865959497	320b9128400a345941b9679fef7d9303	not tested	rep_cluster_952	002435__CP022516	-	-	-	-	-	-	-	CP022516	0.0914855	Arenibacter algicola	-	-	-
+filtered_contigs.plasmid	plasmid	novel_1eed6e415f7cb450b554635e8d398ed4	-	NODE_206256_length_1029_cov_0.077419	1029	0.48882410106899904	73c5fe07d837fc4326feb647c80cedb4	not tested	-	-	-	-	-	-	-	-	-	CP022516	0.0914855	Arenibacter algicola	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_209382_length_1021_cov_0.136659	1021	0.3614103819784525	6babacf4f1b20c504fca2da1e030b42a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_209835_length_1020_cov_0.138979	1020	0.37254901960784315	706f50898ae8235043f6c083182ca321	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_213590_length_1012_cov_0.041621	1012	0.658102766798419	7b02a0dca83f0de8e14e7071075b2e24	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_216545_length_1005_cov_0.040839	1005	0.5850746268656717	4c21e8d84f06e252aa193c68f335fb74	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

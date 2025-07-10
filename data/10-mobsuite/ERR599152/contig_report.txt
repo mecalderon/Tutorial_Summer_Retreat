@@ -1,0 +1,35 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+filtered_contigs.plasmid	chromosome	-	-	NODE_1_length_421278_cov_0.803148	421278	0.4475738111175993	577c3bda94290f131d69ac825335b2e2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_43_length_56291_cov_1.596722	56291	0.43712138707786324	60fd29370fe008fc5ba463d91be701bd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_351_length_18819_cov_0.201122	18819	0.6177267655029491	913995ca4679b7ecd3d2a222b5c5918e	not tested	rep_cluster_2002	001440__CP020446	-	-	MPF_T	NC_008388_00003	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_398_length_17444_cov_0.166849	17444	0.3491171749598716	3c46f444ebdab9e950a86e5eed2014e4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_836_length_11985_cov_0.132593	11985	0.6382978723404256	d654c561d75a5bd4a6ce7e95e1238679	not tested	-	-	-	-	MPF_G	NC_017958_00033	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_2255_length_7360_cov_1.903732	7360	0.39211956521739133	90bce62b607dbbc7c2f6441fc4d5a5b4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_6528_length_4179_cov_0.110049	4179	0.6367552045944006	10c3ed04fbaf01ebb55b70caa77caba5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_7592_length_3852_cov_0.672529	3852	0.43120456905503635	aff747b793c4e9ab1deba74bf2553e58	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_8280_length_3675_cov_0.122483	3675	0.5164625850340137	74c7a07f39240893b19e8c4474e8087d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_9746_length_3349_cov_0.152308	3349	0.3469692445506121	69ccc69cbfd73bebf3ad446dee6286e9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_13146_length_2822_cov_0.113845	2822	0.625797306874557	dd089d555d42ff9c82a0708faf398bc5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_13627_length_2761_cov_0.145379	2761	0.42231075697211157	02f5707f6ea3eef59c56b10e5fce8f1a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_16084_length_2527_cov_0.116969	2527	0.35931935100910173	3169a0c2f487bdab9faac599e450d922	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_17460_length_2412_cov_0.146995	2412	0.49585406301824214	11cd81ab2752b5174004407e0ea35349	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_32531_length_1704_cov_0.461059	1704	0.318075117370892	bb8e72b609a1272aff66653b6bf04f53	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_33319_length_1680_cov_0.232764	1680	0.4113095238095238	ed2b2b4dd221725f00b7f11c705c220b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_39936_length_1520_cov_0.050669	1520	0.6394736842105263	c9748ce8878668232b1cf6d030327ffe	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_47446_length_1378_cov_1.272869	1378	0.6640058055152395	f62c51543d529349a17ed6ad5e139d13	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_48019_length_1369_cov_0.083465	1369	0.5799853907962016	f53dfd3ebfa2b0fbbd7ffbb7697f4fa9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_52668_length_1297_cov_0.056761	1297	0.6453353893600616	bc1ef23f9b96d403dc26486c11a37fe0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	KY495890,JQ899055	IS5075,Tn3	repetitve element
+filtered_contigs.plasmid	chromosome	-	-	NODE_52747_length_1296_cov_0.059315	1296	0.6435185185185185	e0b86cf5f800144a1e7385f5cd27e24d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_55609_length_1256_cov_0.069144	1256	0.46735668789808915	494733fa82a316507bfa139ba49742f7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_56337_length_1247_cov_0.050523	1247	0.58700882117081	e3df357e86c510269027b35aec5a3f6d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_57531_length_1232_cov_0.075022	1232	0.5917207792207793	588da7b8f20fd23e196d6a5cb1cdd08a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_60020_length_1203_cov_0.074275	1203	0.5852036575228595	7fbfd96b66e82c7bda8a870a3f2484a7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_61857_length_1181_cov_0.110906	1181	0.5749364944961897	6e8a06bb872d79d77ae3460944abfddd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	KY978628	ISShes11	repetitve element
+filtered_contigs.plasmid	chromosome	-	-	NODE_61871_length_1181_cov_0.087800	1181	0.4242167654530059	75b8ccc92fdbc73d7b7e51c8b62bd249	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_70013_length_1101_cov_0.063872	1101	0.5831062670299727	c06f1e40c58eac99b4eb59a3e6eacd75	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_73691_length_1068_cov_0.475748	1068	0.6338951310861424	7432988aed98ecb8ae9b9aa7274c12d3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_f3ca3504a6fc569774e6dc7562860a6c	-	NODE_77032_length_1042_cov_0.120891	1042	0.3416506717850288	f3ca3504a6fc569774e6dc7562860a6c	not tested	rep_cluster_1254	CP033534_00010	-	-	-	-	-	-	-	CP023024	0.0645437	Acinetobacter baumannii	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_77492_length_1039_cov_0.068085	1039	0.5745909528392685	30a81e8e47f5af1234347ebab9ea2dcc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_81171_length_1012_cov_0.083242	1012	0.6136363636363636	eac7d30903eb91b3cf5dcae421dc62cf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_82272_length_1004_cov_0.188950	1004	0.6045816733067729	4bf43d757be3baea2feaf02eab125f60	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_82416_length_1003_cov_0.118363	1003	0.5423728813559322	c2b3e5222f92f7843334c52a0a0e0f1d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

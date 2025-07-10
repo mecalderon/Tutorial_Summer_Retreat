@@ -1,0 +1,355 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+filtered_contigs.plasmid	chromosome	-	-	NODE_3_length_301491_cov_0.329375	301491	0.40968055431173733	19ed581d341f2fb0b4b5dce3329d12e8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AE825	AO687	NODE_20_length_121792_cov_0.209815	121792	0.6521035864424592	37578a18926329ea59db36934c7cbd28	not tested	-	-	-	-	-	-	-	-	-	CP021407	0.0146626	Celeribacter manganoxidans	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_39_length_97495_cov_0.373270	97495	0.6101235960818504	99b3ae4fbd91a5ce55761df5fda660d6	not tested	-	-	MOBP	CP028477_00051	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_44_length_91991_cov_0.221521	91991	0.39624528486482374	fd787a0c72a706a4f07bcda154956505	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_85_length_65841_cov_0.233139	65841	0.39549824577390985	64a51d4194367083e79e724f704097d0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_98_length_61296_cov_0.220942	61296	0.39704058992430175	32e121d50cd0838b22439bcfdee6eb93	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF868	AP872	NODE_120_length_55461_cov_0.363390	55461	0.6686500423721173	e955a56015e20691c9a0e78d4a645d00	not tested	rep_cluster_252	001530__CP010865_00002	-	-	-	-	-	-	-	CP021408	0.00884936	Celeribacter manganoxidans	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_132_length_52710_cov_0.533767	52710	0.6101498766837412	4f45d39adafa254825c79172f9bf0962	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_152_length_47936_cov_0.490896	47936	0.38255173564753003	32789f5c863780b2a8f7e11e6c7c340e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_160_length_46652_cov_0.256095	46652	0.5461287833319043	45b94ed83551f6ae50f02d42d3c6e58b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_198_length_39739_cov_0.323613	39739	0.38279775535368277	6527b9e584bb580850303027a4066378	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_199_length_39692_cov_0.222135	39692	0.3919681547918976	6373b838a65b331f47ec509fcdf3488d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_233_length_36157_cov_0.234733	36157	0.6755538346654866	aef80c9209a772870488b990df8260d8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_247_length_35358_cov_0.279617	35358	0.6274110526613497	afb120605b7b8f12ee91b8f3fa2e4c14	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_261_length_34471_cov_0.291516	34471	0.5892489338864553	cbd586498c682c3dbbba49f7a1c66d7e	not tested	-	-	MOBQ	NC_008036_00003	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_288_length_32550_cov_0.383131	32550	0.6057142857142858	ed73cfae466690de5d97d4ae57d16785	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_331_length_30400_cov_0.228078	30400	0.40615131578947367	622ced790f48548d5a646f3f894a5c4d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_385_length_27627_cov_0.217887	27627	0.5731711731277374	0c81958bd4cbd69ce03aa0b1e0f9a9b6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF896	-	NODE_422_length_26449_cov_11.572638	26449	0.41502514272751334	c9caefcefa54c606c5c94b80b1c0a3e8	not tested	-	-	-	-	-	-	-	-	-	CP012534	0.0403101	Psychrobacter sp. P11G5	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_440_length_25829_cov_0.986086	25829	0.6013008633706299	4f19ceb5781128ed264a107147df76d1	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_496_length_24231_cov_0.626761	24231	0.640831992076266	7e203b4ebc6425fa664d1f5c9ac3658c	not tested	-	-	MOBQ	NC_008388_00006	MPF_T	NC_008388_00003	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_09d391bcf39fc71fc91e23802807743e	-	NODE_543_length_22899_cov_0.171667	22899	0.6695052185684964	96ce618335922cc82cc509936701f136	not tested	rep_cluster_565	001965__CP012664_00035	-	-	-	-	-	-	-	CP021405	0.0623675	Celeribacter manganoxidans	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_586_length_21976_cov_0.248709	21976	0.6298689479432108	ebaf4123ca17973b15aec8cdcd0e47ea	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_601_length_21648_cov_0.213096	21648	0.6409368070953437	3b77be8879ffa72114672bc161861934	not tested	rep_cluster_1149	000427__GU811235_00024	MOBQ	NC_020542_00048	MPF_T	NC_020542_00042	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_642_length_20805_cov_0.335796	20805	0.3522230233117039	8fbbeba1035f14a367708f42f1ce5e89	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_672_length_20131_cov_0.315345	20131	0.6123888530127664	3ac51be036a5810bf26f5e6c9761ef7d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_675_length_20105_cov_0.227632	20105	0.39129569758766475	56f5966464b60f87fffa345c3ea5ff11	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_733_length_19223_cov_0.648504	19223	0.6170212765957447	c92a44b9fb39947b078fa17ac4132757	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_778_length_18597_cov_0.155368	18597	0.6646770984567404	b2e65a6edf604877012391a60464612a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_792_length_18443_cov_0.171991	18443	0.686927289486526	1792088ca5a9739349ef8569df2fbabd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_910_length_17185_cov_0.158609	17185	0.6854233343031714	7ff76291374dfc4a9e3561fe3da26a9a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1356_length_13906_cov_12.205548	13906	0.41478498489860494	42b311e30a9f0bb31bcab66c7420eb42	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1395_length_13665_cov_0.208536	13665	0.562971094035858	43bbb617c98bc572dce4a3c70813145b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AB933	-	NODE_1578_length_12804_cov_0.209839	12804	0.6218369259606373	19c9797c8953ae2231afe4e3f5af2621	not tested	-	-	-	-	-	-	-	-	-	CP013269	0.0515304	Sphingobium baderi	-	-	-
+filtered_contigs.plasmid	plasmid	novel_09d391bcf39fc71fc91e23802807743e	-	NODE_1672_length_12427_cov_0.155175	12427	0.6713607467610847	7e72159dcc532e23b60d8cbabe5ad6f9	not tested	-	-	-	-	-	-	-	-	-	CP021405	0.0623675	Celeribacter manganoxidans	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1735_length_12186_cov_0.243237	12186	0.6635483341539472	5fcc8a5d099f2fd2f10d3bfcb361784d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_2013_length_11196_cov_2.229792	11196	0.37022150768131473	a1e3b9f6f8f12d1402d31421d0e51e17	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_2204_length_10695_cov_0.707342	10695	0.593080878915381	32cf9a770bdb123fba26079860bb55fe	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	plasmid	AB994	-	NODE_2345_length_10396_cov_1.490628	10396	0.3911119661408234	4ec76bdc03cc4dea069ef557cf7bb5be	not tested	-	-	MOBQ	CP012537_00009	-	-	-	-	-	CP012537	0.0287714	Psychrobacter sp. P11G5	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_2361_length_10366_cov_0.259959	10366	0.6805903916650589	1fee9d52a71909bb34071b3302c12d40	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_2392_length_10310_cov_0.670258	10310	0.6177497575169738	680f3839a78e88f2c838dcd60ec51345	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_2777_length_9522_cov_0.196965	9522	0.5726738080235245	e6d6b2e918424ee42e78fe2322c6f812	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_3264_length_8802_cov_0.607607	8802	0.5947511929107021	36ec9a70e2c844155342af309a0265a0	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_3413_length_8604_cov_0.257731	8604	0.5947233844723384	a2175914bdb4c0242d25379c4dab25ff	not tested	rep_cluster_579	001980__CP014798_00109	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_3593_length_8413_cov_0.173563	8413	0.5581837632235825	e24102b1c94483cc2919c8b59a6ecf4f	not tested	rep_cluster_914	002400__CP004397_00001	-	-	MPF_T	NC_008388_00003	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_3596_length_8407_cov_0.210159	8407	0.6074699655049364	b24866ac586de183be9d74bd73bcb924	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_3640_length_8348_cov_0.211541	8348	0.4118351701006229	8e7f2d2f620b9ebc5d77ebcd51e03257	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_3739_length_8237_cov_0.136643	8237	0.6688114604831856	67e6a023116d2cff8d11879a869e890a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_3764_length_8211_cov_0.174186	8211	0.6164900742905858	49a6cf81f5ff4bd7229c938c7972b365	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_3800_length_8176_cov_0.120837	8176	0.6172945205479452	543f7f895aa9e07fb0fa3edc70e663c8	not tested	-	-	-	-	MPF_T,MPF_T	NC_022050_00040,NC_022050_00041	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_4391_length_7591_cov_0.123465	7591	0.6295613226188908	3b66d565c55fd176400b0cefc70da4b3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_4452_length_7534_cov_0.689173	7534	0.610830899920361	e15555599fd48b3e1fb28963108e1700	not tested	-	-	MOBF	CP015441_00197	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_4502_length_7503_cov_0.125068	7503	0.5961615353858457	8ae758168fec623b558dc5f7adcb5889	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	plasmid	AB496	-	NODE_4530_length_7477_cov_0.107346	7477	0.6732646783469306	8df4ae18a0bf7a8eba11791bea1f8d59	not tested	-	-	-	-	-	-	-	-	-	CP031591	0.0511448	Rhodobacteraceae bacterium	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_4805_length_7258_cov_0.231736	7258	0.5653072471755305	7f8ed42700f4430b6522ef7c58cdc2c4	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_5240_length_6941_cov_0.143525	6941	0.5893963405849302	a5f7942c55406b4a2e5df65a8ac0c351	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_5256_length_6928_cov_0.124176	6928	0.6007505773672055	b12b7cf26af384e011e0d3444bd499c8	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_5441_length_6801_cov_0.203223	6801	0.5975591824731658	00af34b6ff15ed833989d8e32451ea77	not tested	-	-	-	-	MPF_T	NC_008388_00003	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_5680_length_6642_cov_0.398747	6642	0.6321890996687745	e4db34275f75026c9f5c8ae1921ba9a3	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_5688_length_6636_cov_0.270766	6636	0.6204038577456299	c84486b30e8c018e3af9afca2da237b6	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_5756_length_6597_cov_0.267005	6597	0.6246778838866152	5a39671771909b6f49e52103bffb3c4c	not tested	-	-	MOBQ	NC_008388_00006	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_6292_length_6301_cov_0.138181	6301	0.3834312013966037	1075c9adee5e59c0762a5720936d234f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_6302_length_6295_cov_1.874435	6295	0.3764892772041303	d11bf651646f3ef0298b033e5779a0fc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_6429_length_6231_cov_0.154110	6231	0.48258706467661694	3cb5471d5331b3ab9def5cb6c8b04a5a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_6837_length_6037_cov_0.280566	6037	0.5943349345701507	dca99f49833a0f4f6d16c9e2ee266d14	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	plasmid	novel_09d391bcf39fc71fc91e23802807743e	-	NODE_7143_length_5910_cov_0.188092	5910	0.6560067681895093	968c02dcd4bea493d4b1b50db094eb15	not tested	-	-	-	-	-	-	-	-	-	CP021405	0.0623675	Celeribacter manganoxidans	-	-	-
+filtered_contigs.plasmid	plasmid	novel_09d391bcf39fc71fc91e23802807743e	-	NODE_7455_length_5776_cov_0.156421	5776	0.6909626038781164	0557fa3d34ad55ccd5315ccb53ed7e9e	not tested	-	-	-	-	-	-	-	-	-	CP021405	0.0623675	Celeribacter manganoxidans	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_8762_length_5341_cov_0.078405	5341	0.5693690320164763	c08beaac4f3b97d5dbcf224b4e474717	not tested	-	-	-	-	-	-	-	-	-	CP018078	0.0683793	Sulfitobacter sp. AM1-D1	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_8893_length_5294_cov_0.158999	5294	0.6159803551190026	dc540f9ebca033055679707676ab98d9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_8989_length_5267_cov_1.890286	5267	0.37174862350484145	49703b649e8e8e295511c74ebb86e3da	not tested	-	-	MOBQ	CP012536_00011	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_9241_length_5193_cov_0.115430	5193	0.6807240516079338	4885159390d29db76b3e38510014e35f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_9408_length_5141_cov_0.487108	5141	0.6189457304026454	93e77eb5dc2125bdcb75781e7a341193	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_9847_length_5028_cov_23.807466	5028	0.4025457438345266	b498e94e6ab64b18bef23c3e44cc22df	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_10084_length_4969_cov_0.147228	4969	0.6132018514791708	0777f194c958ba5724045b18309e8551	not tested	-	-	-	-	-	-	-	-	-	CP010652	0.0974869	Phaeobacter inhibens	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_10228_length_4938_cov_0.102707	4938	0.38760631834750914	453a2a006d4cbe9676758760775836bb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AB496	-	NODE_10288_length_4922_cov_0.113830	4922	0.6247460381958554	f2248586e727af0f69d4c9a2a4dc22b7	not tested	-	-	-	-	-	-	-	-	-	CP031591	0.0511448	Rhodobacteraceae bacterium	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_11731_length_4607_cov_0.220275	4607	0.6082049055784675	087bc73c5f050780c4477ce227d0e98b	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_11798_length_4594_cov_0.133927	4594	0.5990422289943405	28e4370ecb84f42736e18ca9f448932c	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_11987_length_4558_cov_0.271810	4558	0.6186924089512944	e79d0a2285a7fcc2caefbcd53d63c0fe	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_12238_length_4510_cov_0.111539	4510	0.6059866962305986	831437b2e5e876c3be3f959e112323b0	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	plasmid	AF502	AP459	NODE_12636_length_4433_cov_0.108676	4433	0.6095195127453192	83be0648abd3c7ce98131a854698fdd7	not tested	-	-	-	-	-	-	-	-	-	CP000357	0.0214999	Sphingopyxis alaskensis RB2256	-	-	-
+filtered_contigs.plasmid	plasmid	AB496	-	NODE_12695_length_4420_cov_0.120111	4420	0.6493212669683258	db3d1d9c5a0b60023f1da317ab98d428	not tested	-	-	-	-	-	-	-	-	-	CP031591	0.0511448	Rhodobacteraceae bacterium	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_12706_length_4417_cov_0.483789	4417	0.6008603124292506	85f33ab793494db4a895cc4d128dc4ab	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_13044_length_4356_cov_0.270848	4356	0.5528007346189164	332e1f02ece5261ee2d88ffa373fa931	not tested	-	-	-	-	-	-	-	-	-	CP018078	0.0683793	Sulfitobacter sp. AM1-D1	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_13742_length_4240_cov_0.179184	4240	0.6254716981132076	e5db5c86ce8fc24e411179e42d1d5f2c	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_13908_length_4211_cov_0.227870	4211	0.6430776537639515	c2f4518229080571fb2599f79cfeea1b	not tested	-	-	MOBP	NC_023148_00033	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	plasmid	AB496	-	NODE_13994_length_4198_cov_0.125152	4198	0.5323963792282039	6ac29c2fc59977bd206af9a1f1e5c3e7	not tested	-	-	-	-	-	-	-	-	-	CP031591	0.0511448	Rhodobacteraceae bacterium	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_14025_length_4193_cov_0.204201	4193	0.5781063677557835	f4a034508eed83bd24174986425f6176	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_14762_length_4087_cov_0.228435	4087	0.5975042818693418	b207e586001bcecbb6012ddc94fb47ab	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_15221_length_4024_cov_0.120764	4024	0.6021371769383698	e1a19b93b41d59e57688cc45a37adf19	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_15244_length_4021_cov_0.193524	4021	0.6030838099975131	a057db3b77bfec966938c4017bd0566b	not tested	-	-	-	-	-	-	-	-	-	CP018078	0.0683793	Sulfitobacter sp. AM1-D1	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_15475_length_3990_cov_0.083783	3990	0.5884711779448621	0e7751a3157eb0d6350604ab10741288	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_17230_length_3781_cov_0.196632	3781	0.5130917746627877	a060dec9cb0cda6f59d84da0cb90f42f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	MF458176	ISKox3	repetitve element
+filtered_contigs.plasmid	chromosome	-	-	NODE_18263_length_3673_cov_0.113039	3673	0.5643887830111626	a4aab8a4934c287b1b7e4deb15cf9c85	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_18402_length_3659_cov_0.114326	3659	0.5766602896966384	6a1ac86978e6d001f98b1728bc03112c	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	plasmid	novel_4bfb4a99ea45e34c4f7c77ec4cb65fb9	-	NODE_18638_length_3636_cov_0.107718	3636	0.6339383938393839	c3380377a53afb3dc1dfc9aa5072cf98	not tested	rep_cluster_1319	000637__CP004038_00178	-	-	-	-	-	-	-	CP041020	0.0699663	Sphingobium fuliginis ATCC 27551	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_18676_length_3631_cov_0.280011	3631	0.6270999724593775	3004cb108f09953c768afc4493adb6d7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_18934_length_3604_cov_0.096148	3604	0.6245837957824639	27ba899777e8b55b4697b04c5ec9a67c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF896	-	NODE_19311_length_3565_cov_0.199077	3565	0.39663394109396916	a0c12e446dd3682a39df19c2d4a2a022	not tested	rep_cluster_1207	000497__CP012534_00001	MOBQ	CP014946_00017	-	-	-	-	-	CP012534	0.0403101	Psychrobacter sp. P11G5	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_19378_length_3559_cov_0.124277	3559	0.5869626299522338	69f910079581a954b00f5e06a7f5abd7	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_19463_length_3550_cov_0.198493	3550	0.6346478873239436	0e4b8d37dd72bc4949caaae838aa17f5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_20112_length_3494_cov_0.116053	3494	0.6187750429307384	6bc41035f39ab35adc2651c2f4df844b	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_20479_length_3462_cov_0.123996	3462	0.5586366262276141	3f36056bec9a5f6adaf8819e28007a2d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_20687_length_3445_cov_0.106396	3445	0.6348330914368651	3f9f5431e2aec385757cbf05f98df9c0	not tested	rep_cluster_567	001966__CP014598	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_21656_length_3366_cov_0.126416	3366	0.6016042780748663	40a494d52fb2d9b384732d184297fe31	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_21980_length_3340_cov_0.141006	3340	0.5952095808383233	c78b945f4f25e0d98851eccac31d38bd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF502	AP459	NODE_22153_length_3326_cov_0.143787	3326	0.6319903788334336	22188fb3609b8ece3e28d6ccd174b074	not tested	-	-	-	-	-	-	-	-	-	CP000357	0.0214999	Sphingopyxis alaskensis RB2256	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_22470_length_3301_cov_0.127420	3301	0.5867918812481067	6a7650d62d56f7ae0c930cea47364d82	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_22722_length_3281_cov_0.542740	3281	0.6049984760743675	921d07e120d0af366cec66f90fd12012	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_22889_length_3270_cov_0.064964	3270	0.5767584097859327	d0ab8dc53b21d56621e5870e24a56a72	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_22935_length_3267_cov_0.069444	3267	0.5916743189470463	77c3e375d44473a77549132209efc2b8	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_23553_length_3222_cov_0.094140	3222	0.5626939788950962	8189bb36128218b073b13d1d0e638c3a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_23838_length_3201_cov_0.171825	3201	0.6104342393002187	c601af6140bd443df6c0c0120dbff753	not tested	-	-	MOBQ	NC_008388_00006	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_23873_length_3199_cov_0.090000	3199	0.5826820881525476	42dbd8a5d9c20406c472e069d224eeb6	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_24043_length_3186_cov_0.125040	3186	0.6117388575015693	1aa6c4c844305ad79d5f13ff5b1d062f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_24305_length_3169_cov_0.144951	3169	0.5528557904701799	b2d6cff9970dcdae1b2e543684ed3533	not tested	rep_cluster_305	001613__CP014803_00046	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_24775_length_3138_cov_0.082264	3138	0.6418100701083492	1ebc75044334c96af6a1a263f09fde9b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_25594_length_3083_cov_0.120308	3083	0.6146610444372365	412e007748fad6d1eaab89a20334a205	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_25747_length_3073_cov_0.051446	3073	0.5883501464367068	877b77f87dec8c289a6162484da7e839	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_26555_length_3023_cov_0.098495	3023	0.6787958981144558	28406ba141d01b48442863f41ae27ceb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_26900_length_3002_cov_0.187048	3002	0.6212524983344437	756659c293e5a55f372f14d5b663a7d8	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_27358_length_2976_cov_0.158151	2976	0.6720430107526881	496003ac66cf63da22acc7e7932a7182	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_27613_length_2962_cov_0.084527	2962	0.5894665766374072	8c613eb925c7d321999253afa266bd28	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	plasmid	AF502	AP459	NODE_28518_length_2912_cov_0.136154	2912	0.5913461538461539	17e0bb64f53f1b6e9bc71a2e054679ed	not tested	-	-	-	-	-	-	-	-	-	CP000357	0.0214999	Sphingopyxis alaskensis RB2256	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_29622_length_2854_cov_0.268966	2854	0.5988086895585144	99d089d0f5d4bf8583a3d738498b0f3b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_29664_length_2852_cov_0.258264	2852	0.6202664796633941	e555c47f506df879b967462614cc6b62	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_29914_length_2839_cov_0.257299	2839	0.6160619936597393	4cdefc9d02d6bc39c01a04fa44c36277	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_30632_length_2804_cov_0.099076	2804	0.5970042796005706	37396d9ad95fcbc1eaa95c257a96ed1b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_33232_length_2688_cov_0.201622	2688	0.6443452380952381	b46a81b008ff013e4bb11e510784d436	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_34584_length_2631_cov_0.134676	2631	0.5758266818700114	0c62a2f1782549343bdf2549c19fec58	not tested	-	-	-	-	-	-	-	-	-	CP010652	0.0974869	Phaeobacter inhibens	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_35169_length_2608_cov_0.139099	2608	0.5245398773006135	4911b44238fc5ee2cace46b03abbe11a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_35202_length_2607_cov_0.081738	2607	0.6785577291906406	65e6f61be5634f36721c927f32eeffd6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_35985_length_2575_cov_0.048869	2575	0.6229126213592233	05b7dd5a1a2153254ea6030f3e99280e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_36129_length_2569_cov_0.074089	2569	0.6091864538731023	a7972c405e29a6d0f9a2cdb27a410e5d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_36223_length_2565_cov_0.140308	2565	0.4124756335282651	bf6910fbf40d92f98cc51ad7b965de91	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_36731_length_2545_cov_0.161488	2545	0.6357563850687623	b51c7ff498df2ab954a8e135667eb394	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_37796_length_2507_cov_0.042359	2507	0.618667730355006	4fced2ccf3e1c0a95aec9b193ce41baa	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_38600_length_2478_cov_0.092476	2478	0.5819209039548022	98e68a6033a87525f083dc9c65f0a9f9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_38636_length_2477_cov_0.050463	2477	0.6096083972547437	bcf389ff11edace53aee8c9ada915e1c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_39226_length_2457_cov_0.082273	2457	0.5864875864875865	3ceb1ca0ad8e6faa5212069c62910612	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_41215_length_2394_cov_0.247930	2394	0.5066833751044277	374eb955d3c9b1a76374166890e8df1c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_4bfb4a99ea45e34c4f7c77ec4cb65fb9	-	NODE_42978_length_2342_cov_0.098529	2342	0.625533731853117	b86260afe2f3b6cba55f316ee159750d	not tested	rep_cluster_754	002232__NC_019376_00020	-	-	-	-	-	-	-	CP041020	0.0699663	Sphingobium fuliginis ATCC 27551	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_43312_length_2332_cov_0.247201	2332	0.6234991423670669	e68bde7d23101743796124a2f193c353	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_44104_length_2310_cov_0.147897	2310	0.42813852813852815	dfa9c3265bb6e7649bf2b8484694cc09	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_44285_length_2305_cov_0.352221	2305	0.6264642082429501	a9ab37db85f661fa2b795c8cd3b11e1d	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_44383_length_2302_cov_0.786655	2302	0.6759339704604691	f0265be1153cd680563f4c00e9b263d7	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_44423_length_2301_cov_0.134423	2301	0.6497175141242938	7b1f267998c8c67b0855440beec1cafb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_44567_length_2297_cov_0.147862	2297	0.5833696125380932	09f74c7b71bf10f8bd180814d6a4fa18	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_45761_length_2266_cov_0.084449	2266	0.5732568402471315	dc50466858d7f58c639cfdd8c66140cc	not tested	-	-	-	-	-	-	-	-	-	CP018078	0.0683793	Sulfitobacter sp. AM1-D1	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_46374_length_2250_cov_0.128312	2250	0.6364444444444445	044860aa2eb7d85676c12c7276328461	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_4bfb4a99ea45e34c4f7c77ec4cb65fb9	-	NODE_46757_length_2240_cov_0.254087	2240	0.6357142857142857	d7383589efcab6c44d172b087046dc58	not tested	-	-	-	-	-	-	-	-	-	CP041020	0.0699663	Sphingobium fuliginis ATCC 27551	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_48093_length_2208_cov_0.101944	2208	0.39719202898550726	aee5e52ba5f2b2a3e6a826b8e805ec5d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_48252_length_2204_cov_0.221378	2204	0.3371143375680581	381c3511cef78190c3628a667fefddc5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_48958_length_2187_cov_0.087165	2187	0.6026520347508002	23c84787c10e6b71e31abf4026e4db92	not tested	-	-	-	-	-	-	-	-	-	CP018078	0.0683793	Sulfitobacter sp. AM1-D1	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_49101_length_2183_cov_0.237524	2183	0.6174988547869904	b10533a693e51ec45fab080ce1a9e642	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_49166_length_2182_cov_0.092655	2182	0.5843263061411549	a68e9ba742a712dee36171520c128764	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_49732_length_2169_cov_0.107729	2169	0.5864453665283541	34e6e858e938c9478d681e277d258ea8	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_51024_length_2140_cov_0.179324	2140	0.633177570093458	623312ce288cd99036e853be2bf2cd51	not tested	-	-	-	-	MPF_T,MPF_T	NC_004574_00087,NC_009955_00053	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_52049_length_2119_cov_0.098020	2119	0.49834827748938176	4f256caaefea209af2111010df7d34a5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF828	-	NODE_52245_length_2115_cov_0.134425	2115	0.34893617021276596	fa55f15de964a9d34f622b2c0b3cbf5a	not tested	-	-	-	-	-	-	-	-	-	CP006266	0.0533217	Psychrobacter sp. G	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_52817_length_2103_cov_0.102295	2103	0.6105563480741797	c9e3fca78994706bb33fd58bdc1bd208	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_53023_length_2099_cov_0.131000	2099	0.6503096712720343	dfad81a37e43789d509d3a459fed6104	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_53698_length_2085_cov_0.087110	2085	0.5227817745803357	ec31526d8f9405ccccd60760716e2a2c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_54586_length_2069_cov_0.060406	2069	0.5940067665538907	0ec0074eadedd30714bdc60cfcde1866	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_54806_length_2065_cov_0.051373	2065	0.5569007263922519	41b8e3cbf52c6fd5be3202dba4b773bf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_56664_length_2030_cov_0.092698	2030	0.5699507389162561	d3220dbbb539c4fb1b04b7d39d85a9d8	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_56897_length_2026_cov_0.097042	2026	0.5839091806515301	bb5fa3f54ed2128093a5316e2bca407c	not tested	-	-	-	-	-	-	-	-	-	CP018078	0.0683793	Sulfitobacter sp. AM1-D1	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_57808_length_2009_cov_0.063874	2009	0.3693379790940767	b5df97d5d9c99c94048ae6b2d112bb11	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_57914_length_2007_cov_0.036688	2007	0.6268061783756851	37538d610131fb08877b4e49a73e3ac5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_58507_length_1996_cov_0.411176	1996	0.5691382765531062	294c94c029465735d516f27e6d7c43e0	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_58757_length_1992_cov_0.489171	1992	0.5542168674698795	f339b898c572ab00de55bc15837d8beb	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_58784_length_1992_cov_0.080296	1992	0.6219879518072289	44fff44fde5621769cc746c146d32a96	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_58864_length_1990_cov_0.245902	1990	0.6346733668341709	b61071acca2b1c9ed773eb31e21bbea5	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_60001_length_1971_cov_0.080662	1971	0.6732623033992897	bdcd1ff17b8cefe5a9d1abab249bef5b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_60116_length_1969_cov_0.113369	1969	0.5764347384459116	0ef816a346a44d775b35d195c42c3176	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_60217_length_1967_cov_0.129015	1967	0.5876970005083884	148266bbc7f1ea62a1390a4d39ac7b12	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_61769_length_1942_cov_0.057515	1942	0.6035015447991761	14674211fc3004b84693999d7e29ce41	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_62211_length_1935_cov_0.058824	1935	0.5700258397932817	44de4bc3468f6e6bd6c2157395001b5f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_62734_length_1926_cov_0.096880	1926	0.5991692627206646	c7a1f994dcadff9c84b564e0f26f0d32	not tested	-	-	-	-	-	-	-	-	-	CP018078	0.0683793	Sulfitobacter sp. AM1-D1	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_63408_length_1915_cov_0.087555	1915	0.6407310704960836	1f89496b28518b554544ce20800f91ca	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_64831_length_1892_cov_0.514780	1892	0.5539112050739958	36c05fad0a799c0fb3ba7316e1a6b01e	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_64999_length_1890_cov_0.102736	1890	0.6317460317460317	6ee4a8d2c2ef940cdf5797bdc7b7a3f3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_65440_length_1883_cov_3.540919	1883	0.38024429102496016	6340147e154091a7a75a0ad309628fe4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_66155_length_1873_cov_0.080609	1873	0.6203950880939669	1786e5c5925516bfdcf36f533e3b1964	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_66498_length_1867_cov_0.241516	1867	0.6647027316550616	fb2ecc986376b019939954ecd8d6a6c7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_67242_length_1856_cov_0.251565	1856	0.552801724137931	69557b91becbaff094bb19cb795e73a6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_67716_length_1849_cov_0.116571	1849	0.623580313683072	b32975b0564764b9a179d55310397766	not tested	-	-	-	-	MPF_T	NC_009955_00053	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_69137_length_1828_cov_0.223829	1828	0.6230853391684902	971779dfb9187a4b2722ad9a93335115	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_69392_length_1824_cov_0.191304	1824	0.6398026315789473	42e44b6e1c8497786e826a1b52053b9b	not tested	-	-	-	-	MPF_T	NC_004574_00081	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_69772_length_1819_cov_0.075581	1819	0.6096756459593183	c7a543fa8e93d2970c2a98a91d1c5d95	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_70660_length_1807_cov_0.059133	1807	0.5949086884338682	72faa61069344897c48251601e6ec0c2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_70887_length_1804_cov_0.068622	1804	0.6202882483370288	c71b567923d32a7b808f3ace80eb34dc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_70902_length_1804_cov_0.039883	1804	0.582039911308204	4f4332d056e4c2a6afc48bb75db0f61f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_71671_length_1793_cov_0.099764	1793	0.6369213608477412	b61c8f0750c7ffd8cf438c012050692f	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_72590_length_1781_cov_0.337099	1781	0.5946097697922516	7fc5caccb961ab11c8414f5b8c4eb383	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_72841_length_1778_cov_0.087552	1778	0.5731158605174353	066d02491ee3c7b903b417e17eebc3e5	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_72884_length_1777_cov_0.231228	1777	0.5486775464265616	b0d7be46b5e118389fccfaaabe301fc5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_72908_length_1777_cov_0.105483	1777	0.5734383792909398	9256ea6b3223a9688e0262fd0858a2f3	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	plasmid	AF502	AP459	NODE_73055_length_1775_cov_0.104415	1775	0.6276056338028169	035d6f4e1c1b4270c0f9dcf304bc05bd	not tested	-	-	-	-	-	-	-	-	-	CP000357	0.0214999	Sphingopyxis alaskensis RB2256	-	-	-
+filtered_contigs.plasmid	plasmid	AB933	-	NODE_73774_length_1766_cov_0.184163	1766	0.6517553793884485	d4dbd15d80c95e770d145c6e4e6b610e	not tested	-	-	-	-	-	-	-	-	-	CP013269	0.0515304	Sphingobium baderi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_74467_length_1758_cov_0.086799	1758	0.5568828213879409	eef564ad631de0806f911f319eed0ad6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_77061_length_1728_cov_0.049724	1728	0.6111111111111112	58943b7a39c07c0b68b691ee06e44fbd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_78062_length_1716_cov_0.231911	1716	0.5821678321678322	dac9580900bb2fafe62f26a4f1961632	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_79506_length_1701_cov_0.053059	1701	0.6202233980011758	705b545d1aad19d23b5631b32120f8b3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_81020_length_1684_cov_0.209464	1684	0.6068883610451307	6af729982a27f186d196ee38398c6758	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_81138_length_1683_cov_0.124369	1683	0.5591206179441474	241a4b6dfa97e59a150cd46f4ebd78a1	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_81335_length_1681_cov_0.072061	1681	0.6341463414634146	59a339aec4e3c528b28fdf76199de905	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AB496	-	NODE_81618_length_1678_cov_0.094997	1678	0.668057210965435	716ab8fe430c12f4262ae1f6bd65e12e	not tested	-	-	-	-	-	-	-	-	-	CP031591	0.0511448	Rhodobacteraceae bacterium	-	-	-
+filtered_contigs.plasmid	plasmid	novel_4bfb4a99ea45e34c4f7c77ec4cb65fb9	-	NODE_81728_length_1677_cov_0.072243	1677	0.6094215861657722	ddcb72e14fa06a7880fae030a42fa5cd	not tested	-	-	-	-	-	-	-	-	-	CP041020	0.0699663	Sphingobium fuliginis ATCC 27551	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_82610_length_1667_cov_0.224490	1667	0.3929214157168566	6379ede4cad9f3cf681aea96c7f71ba4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_83028_length_1663_cov_0.081202	1663	0.5965123271196633	fdb59599857ae0f0b59dffff274ed4e7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_84011_length_1653_cov_0.088803	1653	0.603145795523291	e45176ac3cdcac30332e120ae9c85a4d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_84208_length_1651_cov_0.087629	1651	0.5645063597819503	96748137b765fe922b1a596f04d3fc03	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_84484_length_1648_cov_0.098128	1648	0.5952669902912622	2367d1a637c430360031f9b783ce30ac	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_84744_length_1646_cov_0.045895	1646	0.5674362089914945	9db900d23a80883721ed040a99f01178	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF828	-	NODE_85130_length_1642_cov_0.084251	1642	0.36601705237515225	327b420c2af8aae947620c32d1784085	not tested	rep_cluster_1127	000404__NC_021668_00018	-	-	-	-	-	-	-	CP006266	0.0533217	Psychrobacter sp. G	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_85706_length_1636_cov_0.097593	1636	0.613080684596577	a9b7872b4aae759c62c05a055bdc5604	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_86727_length_1626_cov_0.093648	1626	0.48154981549815495	8600a43b50995e72f24d93293fa33070	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_86828_length_1625_cov_0.086501	1625	0.5636923076923077	b249d06b961f5f9bb8f8af4164007dc9	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_87218_length_1621_cov_0.145861	1621	0.595311536088834	ee07138d26f8c92a94d597db0529a885	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_87524_length_1618_cov_0.099408	1618	0.6372064276885043	189ce5aa51f85c481e3f5e6ab1760e4b	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_87939_length_1614_cov_0.054785	1614	0.5842627013630731	fbd7e1f412e2cba5c71eac32d6a701f6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_87940_length_1614_cov_0.054785	1614	0.5278810408921933	083bff160975b05ab7a720b0781e3e32	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_88912_length_1604_cov_0.102990	1604	0.6302992518703242	5bc2a6e05eca54566f4e032531252531	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_90721_length_1588_cov_0.061115	1588	0.5654911838790933	63dafc765a7e2acc495bd9dd0b5089b2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_90988_length_1585_cov_0.257066	1585	0.6145110410094637	8cd2e32f3dbed43cc8985a4ba101e530	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_91428_length_1582_cov_0.076197	1582	0.6106194690265486	274f4893471ee3faf85ff91c91d081d0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_92610_length_1571_cov_0.097826	1571	0.6359007001909611	38b747213eb699ce7272ad66864f06c0	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	plasmid	AB496	-	NODE_92824_length_1569_cov_0.086395	1569	0.6507329509241555	43a2390f7d22dc8f33d858d65045eb84	not tested	-	-	-	-	-	-	-	-	-	CP031591	0.0511448	Rhodobacteraceae bacterium	-	-	-
+filtered_contigs.plasmid	plasmid	novel_4bfb4a99ea45e34c4f7c77ec4cb65fb9	-	NODE_93254_length_1565_cov_0.145975	1565	0.597444089456869	ac647c130f691707eb40742463d3e0da	not tested	-	-	-	-	-	-	-	-	-	CP041020	0.0699663	Sphingobium fuliginis ATCC 27551	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_94101_length_1558_cov_0.121316	1558	0.5757381258023107	d871fdf2ce71b307fdf6176bade960e6	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_94224_length_1557_cov_0.100823	1557	0.5895953757225434	acd446f8cfc72738869f8329601bfe39	not tested	-	-	-	-	-	-	-	-	-	CP018078	0.0683793	Sulfitobacter sp. AM1-D1	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_94491_length_1555_cov_0.087225	1555	0.6109324758842444	2220353bc222e727d895352fdeecff99	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_97732_length_1528_cov_0.180546	1528	0.4155759162303665	d5c6bdef2f0c5259a60e04babb40a22b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_99214_length_1516_cov_0.502470	1516	0.5679419525065963	1ff1305f7787b3ca9bc7bd42c0534480	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_99757_length_1512_cov_0.215853	1512	0.626984126984127	331254e53f0436de66f49f9561a55c97	not tested	-	-	-	-	MPF_T	NC_004574_00081	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_100673_length_1505_cov_0.114509	1505	0.6112956810631229	663ce606a19b12efc579a7869d10c5a4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_100700_length_1505_cov_0.084637	1505	0.5461794019933555	98465febe17d0ae10594e2b048e3bd36	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_100886_length_1504_cov_0.041993	1504	0.6190159574468085	89c13d5b3e53aabaf1af174256b229ce	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_101099_length_1502_cov_0.076265	1502	0.6245006657789614	655beff17046dcb8db538bcfce058dee	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_101654_length_1498_cov_0.053610	1498	0.609479305740988	a6f111ef75ced5d252a2124cd8e7de91	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_101963_length_1495_cov_0.204871	1495	0.5933110367892976	71dbc5f647f11f6f12a1c7f022d1e635	not tested	-	-	-	-	-	-	-	-	-	CP018078	0.0683793	Sulfitobacter sp. AM1-D1	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_102012_length_1495_cov_0.084527	1495	0.6173913043478261	8e77e382ab3f3c52433f12a89aa1f839	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_102068_length_1495_cov_0.041547	1495	0.6387959866220736	966acd4b78726dd5557b926221be8c92	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_102834_length_1489_cov_0.066906	1489	0.6534586971121558	8cf9424f114ede3d4dc6424f857cb050	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_103862_length_1481_cov_0.094067	1481	0.5665091154625254	e891c3abcb02030579f1210e1d84ae0d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_106872_length_1460_cov_0.068332	1460	0.5417808219178082	fb6ec558f93073b5835fecff84fe195f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_107945_length_1452_cov_0.082040	1452	0.6177685950413223	3174516b09deeae913599cfed0dfc9f2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_108075_length_1451_cov_0.079882	1451	0.627842866988284	f4545f7c5eb82e809641f4206a501ec0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AB496	-	NODE_108756_length_1446_cov_0.118782	1446	0.6604426002766252	c7fdb11e95aeaa8f077b6e3ad2cb6098	not tested	-	-	-	-	-	-	-	-	-	CP031591	0.0511448	Rhodobacteraceae bacterium	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_109366_length_1442_cov_0.063291	1442	0.6373092926490985	4d93edc791d20e281ab164d202cac586	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_110017_length_1437_cov_0.107623	1437	0.5796798886569241	19034bfa53897033b36975bcc5cb2409	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_110198_length_1436_cov_0.086013	1436	0.6511142061281338	d800e4df2c7a9b6075874f648d4d01d9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_110640_length_1433_cov_0.129685	1433	0.6203768318213538	55e17d3f70db29a281238ba28d5320b2	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_110745_length_1432_cov_1.940735	1432	0.35824022346368717	df63a69312d24683283f523f4a5fdd0a	not tested	rep_cluster_1166	000446__CP012709_00010	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_111097_length_1430_cov_0.120210	1430	0.5916083916083916	b67ee37fb8e59183d165db38b58ec184	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_111724_length_1426_cov_0.079126	1426	0.6129032258064516	6d9c6f59859d5e1283c526158095da9f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_112392_length_1422_cov_0.057445	1422	0.5478199718706048	ee84be58da04d0e37f493ae3d8dba4b2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_112458_length_1421_cov_0.121785	1421	0.5988740323715693	5a4592c5747a484b5d7d0c254a487623	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_112854_length_1419_cov_0.051515	1419	0.5609584214235377	8dc057cc57cb7485d219e890edeab997	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_113262_length_1416_cov_0.058466	1416	0.5932203389830508	23e4dabe44489190c04310fbb3da5e16	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_113273_length_1416_cov_0.050873	1416	0.5953389830508474	e98351b5efddba1725e5cb26b3bab087	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_113856_length_1412_cov_0.074638	1412	0.6331444759206799	d9d369afbc61dbd21b5badb277c43526	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_114632_length_1407_cov_0.080275	1407	0.665955934612651	7ba6edaa62470a007b59c5a288b262f5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_115133_length_1404_cov_0.091188	1404	0.6132478632478633	03c156b2a723749f613b458d34bb7e2d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_115257_length_1403_cov_0.109663	1403	0.37277263007840344	bc40dbf671e60c80d0b1f586041294c4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_115880_length_1399_cov_0.118462	1399	0.6154395997140815	c5179e8adc7504825089e76b29519d4c	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_116642_length_1395_cov_0.045525	1395	0.596415770609319	3421846a5ac793c057a39f7e2cd53e99	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_117880_length_1387_cov_0.072205	1387	0.61211247296323	83c43e2df786b4b546a0a64de338d508	not tested	-	-	-	-	MPF_T	NC_004574_00081	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_117966_length_1386_cov_0.157731	1386	0.6320346320346321	de4e81cda2e3e8f9f8bbb35273c29986	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_120199_length_1373_cov_0.066719	1373	0.5528040786598689	6e65608eaa99ba822b691431cfd2f889	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_120543_length_1371_cov_0.077044	1371	0.6097738876732313	a7d16d7a9820a193d161731fe229ac93	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_121194_length_1367_cov_0.082808	1367	0.5779078273591807	d9c621604b353e71f6f88f2e3ca33a59	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_122154_length_1361_cov_0.213154	1361	0.6274797942689199	c517350ed186bc3b4b7d5a4db69b96e1	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_122260_length_1361_cov_0.063391	1361	0.56208670095518	f8614838f6620c5c35f4384138f95c82	not tested	-	-	-	-	MPF_T	NC_008042_00056	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_122629_length_1359_cov_0.061905	1359	0.6151582045621781	f13841f7ad05de06904ad4dfb631fc97	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_123754_length_1352_cov_0.109338	1352	0.6235207100591716	1d871acd10fb01e6fed9aef1b43961de	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_125611_length_1342_cov_0.080451	1342	0.5767511177347243	7419fc8f5691a965ee3cc527d35537a2	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_127148_length_1334_cov_0.053441	1334	0.5494752623688156	27fe696e73a0186ca4484af755d9e62a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF502	AP459	NODE_127197_length_1333_cov_0.169368	1333	0.5873968492123031	44462788f9b3487abcda765cb7898a95	not tested	-	-	-	-	-	-	-	-	-	CP000357	0.0214999	Sphingopyxis alaskensis RB2256	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_127248_length_1333_cov_0.085900	1333	0.6016504126031508	1fdaa9fca6d2a97b6066866bff033385	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_127683_length_1331_cov_0.050325	1331	0.5815176558978212	01d3a07e7c640f163e1c539308729c84	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_128229_length_1328_cov_0.043938	1328	0.6114457831325302	eba5a7f3556b2ab8d1acf6f5c03db347	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_128317_length_1327_cov_0.094463	1327	0.587792012057272	99c4b7db382feb55562e9eb1c9c04414	not tested	rep_cluster_736	002214__JN180627_00016	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_130045_length_1318_cov_0.084495	1318	0.5895295902883156	f84d471672cf3ac222f26e7576d03551	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_131170_length_1312_cov_0.081616	1312	0.3871951219512195	46d48e5f6057f5aad79d9dd4a6699cc6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_131650_length_1310_cov_0.045417	1310	0.6129770992366412	61c6a50e79854a04e154bfbf3c20bb06	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_133330_length_1301_cov_0.084027	1301	0.5219062259800153	cdf2adf88441e33c11061cde43d4171b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_133389_length_1301_cov_0.063228	1301	0.5672559569561876	b8c7fdd5c414222f4de466be54aee225	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_133569_length_1300_cov_0.088260	1300	0.6446153846153846	3c5a3e1ca791ce04850d05443b2154df	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_134352_length_1296_cov_0.134503	1296	0.5185185185185185	2424b3f1b64f9677cfa52320e52a0c65	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_135804_length_1289_cov_0.091597	1289	0.6105508145849495	2bed608cdc84e0ef6acaa4e36cad2d45	not tested	-	-	-	-	-	-	-	-	-	CP018078	0.0683793	Sulfitobacter sp. AM1-D1	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_136417_length_1286_cov_0.092671	1286	0.6290824261275272	6a05d55ab3514481e7dbbd20a4b22b71	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_138574_length_1276_cov_0.056075	1276	0.39106583072100315	043621ed1a445bf910e1c40df17d10fd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_138665_length_1275_cov_0.142007	1275	0.5396078431372549	fd3f1bf6505c3adf1c973432bc12002e	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_138759_length_1275_cov_0.067177	1275	0.6023529411764705	2527d5f066b4bf12f1585fb6005e62ab	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_139907_length_1269_cov_0.135043	1269	0.6138691883372734	3ca8eaea09a9bfb8d11425f454c651e9	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_145132_length_1246_cov_0.099390	1246	0.6428571428571429	dfffe2f9e64be40e9b50e6b1946897e6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_146621_length_1240_cov_0.060473	1240	0.55	c36c55af4ab65dd75bbf1fb78cf71071	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_147258_length_1237_cov_0.072935	1237	0.6151980598221504	8f98863292b628148cee7f150f3374da	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_151936_length_1217_cov_0.110912	1217	0.4782251437962202	cc9744912807af04ee9adc287e4255ee	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_153130_length_1212_cov_0.092543	1212	0.6097359735973598	f61cbaed2ea0b9489f15aa8b703cb373	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_153476_length_1211_cov_0.060252	1211	0.6052848885218828	ed6eed2eb6d1aac6f5057feb4f7e3ca6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_153699_length_1210_cov_0.063006	1210	0.6140495867768595	c21f83fca62e41f6f07c30d65ed82476	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_154842_length_1205_cov_0.143761	1205	0.395850622406639	98635330f981d0e38a62152e8162df3f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_155513_length_1203_cov_0.039855	1203	0.6442227763923525	96dcdad9319c4b0e97a8a3d8e2ee3f20	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AF828	-	NODE_155586_length_1202_cov_0.127833	1202	0.348585690515807	66056370575636c1b86d9b256152717a	not tested	-	-	-	-	-	-	-	-	-	CP006266	0.0533217	Psychrobacter sp. G	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_156145_length_1200_cov_0.098093	1200	0.3225	566784268c3eedc372bd5175ba20cfcb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_156348_length_1199_cov_0.187273	1199	0.6313594662218516	f08c5d51b59bbcd73ed15af3b29d16f7	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_158062_length_1193_cov_0.053931	1193	0.595138306789606	ffc50bf1223842d87333c99ab7bcf3a0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_158253_length_1192_cov_0.079597	1192	0.6493288590604027	30c0603740583d6bff73fd7a77e47354	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_158264_length_1192_cov_0.075023	1192	0.36828859060402686	ee26319f32b23cdba639c9e67d04f9ca	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_159333_length_1188_cov_0.095500	1188	0.6515151515151515	7e944277b92a40ca7157b8f699222dd8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_159354_length_1188_cov_0.084481	1188	0.515993265993266	a0b4b242107522307d902cfc9ec7831f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_160341_length_1184_cov_0.200922	1184	0.5827702702702703	30fcf82001e827b195cb73a1eae55e25	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0284967	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_160356_length_1184_cov_0.161290	1184	0.36908783783783783	2c7bb493ae7bf7a3aadef3a18ae7ab5b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_162828_length_1175_cov_0.099442	1175	0.6195744680851064	9ac3c799575ca83424c7d3289c596567	not tested	-	-	-	-	-	-	-	-	-	CP018078	0.0683793	Sulfitobacter sp. AM1-D1	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_165258_length_1166_cov_0.087160	1166	0.5891938250428816	64713f0e8b989d4755f8f0d1325ae7bc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_165340_length_1166_cov_0.057170	1166	0.5780445969125214	4b5c10d5da5eb04190775bae2502c229	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_169499_length_1151_cov_0.099810	1151	0.5968722849695917	a643c719b811dee28889272bf825f3d4	not tested	-	-	-	-	-	-	-	-	-	CP028474	0.0615839	Celeribacter baekdonensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_171364_length_1145_cov_0.046845	1145	0.6	63e9624c8544c54190c9961f1b521863	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_172590_length_1140_cov_0.179635	1140	0.5421052631578948	a56ed42c4aa615ba82e074cbab0c9563	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_172847_length_1140_cov_0.030740	1140	0.6394736842105263	03b54f6874aba4863994fdd4a2adc076	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_4bfb4a99ea45e34c4f7c77ec4cb65fb9	-	NODE_172970_length_1139_cov_0.103846	1139	0.6628621597892889	14c04a506674eb714346b04daa02856e	not tested	-	-	-	-	-	-	-	-	-	CP041020	0.0699663	Sphingobium fuliginis ATCC 27551	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_173594_length_1137_cov_0.079961	1137	0.5734388742304309	661b2eabb2d1fba8880aabffc71c2422	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_174209_length_1135_cov_0.064672	1135	0.6202643171806167	f24145bb1e37456093d2c0ca1d560dba	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_175755_length_1130_cov_0.061106	1130	0.5504424778761062	f232d1368f75b52f40f712dabee579c7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_175900_length_1129_cov_0.141748	1129	0.6634189548272807	14487ed1ff2ee936c08ad85b24d46ae5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_176217_length_1128_cov_0.107872	1128	0.6072695035460993	0729d998068b28856ee5a5650129c2c3	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_176670_length_1127_cov_0.059339	1127	0.5563442768411713	ad9197e9879529071970b4f251bfae57	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_178568_length_1121_cov_0.060665	1121	0.5771632471008028	e20546458ec6ef3d2da1e7fb8c54998a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_179622_length_1117_cov_0.190570	1117	0.40196956132497763	5916ac92e3037a16db9fdb7e142855ed	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_181929_length_1110_cov_0.135509	1110	0.38198198198198197	fcd44375edec900e1045c1ff371f1d08	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_184592_length_1102_cov_0.077767	1102	0.647912885662432	20c72bbc31ec4441d6f4a2214eaa20f9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_185519_length_1099_cov_0.105000	1099	0.4658780709736124	f8a983b5302e123629db63432860affd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AB496	-	NODE_187193_length_1094_cov_0.139698	1094	0.5749542961608776	50a678018310b64d69b535917d8078cf	not tested	-	-	-	-	-	-	-	-	-	CP031591	0.0511448	Rhodobacteraceae bacterium	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_189011_length_1089_cov_0.074747	1089	0.6097337006427915	3ed3e8f01b38c13b702dd42d4328289c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_191439_length_1082_cov_0.074262	1082	0.5979667282809612	9cbb8f565d752fc363f74c57af5aa98a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_195362_length_1071_cov_0.072016	1071	0.5938375350140056	21c6b696bff0d69e4630b9e1acc18e3c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_195548_length_1070_cov_0.350154	1070	0.46822429906542057	2412d9a1a9a247a4de42786c8836aea6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_199688_length_1059_cov_0.090625	1059	0.6515580736543909	d63828e3a6c3406cf9cbd7b222da0161	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_199884_length_1059_cov_0.035417	1059	0.52219074598678	92a53c0a14b9d154cc3bc8246530c285	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_201147_length_1055_cov_0.089958	1055	0.623696682464455	278efff7abc96fafdf463c14baf80b68	not tested	-	-	-	-	MPF_T	NC_004574_00087	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_204324_length_1047_cov_0.054852	1047	0.4087870105062082	ec553e594d539bb707ba4adb18cc7d6d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AA287	-	NODE_204545_length_1046_cov_0.089757	1046	0.5544933078393881	68082fd320d5b0588ea5789c52d7e456	not tested	-	-	-	-	-	-	-	-	-	CP015092	0.0529154	Pelagibaca abyssi	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_207347_length_1039_cov_0.061702	1039	0.5986525505293552	8e85856db66a2ed39ead2887b4f0c251	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_207355_length_1039_cov_0.060638	1039	0.629451395572666	2af2e406b2714775ce6f56fd4bb0bc1f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_208150_length_1037_cov_0.056503	1037	0.600771456123433	ee188bf362f00fd78b69fd06c76eb4bd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_5814d6d52888fc20c04a88935d6a08f1	-	NODE_213497_length_1023_cov_0.250000	1023	0.5992179863147605	4b05802ceac8d31480e592a3c3fdc601	not tested	-	-	-	-	-	-	-	-	-	CP014798	0.064825	Salipiger profundus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_215032_length_1020_cov_0.040174	1020	0.611764705882353	974771fdf2c0db796181ea0230d72efe	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_215112_length_1019_cov_0.195652	1019	0.338567222767419	9dcfd01bde576d6052e39cf4a08053db	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_220164_length_1007_cov_0.321586	1007	0.45779543197616684	90fae333d6aa1f8c6ab7af162ef03573	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_221969_length_1003_cov_0.094027	1003	0.6251246261216351	9eb6679a20d7d0969d20377b338ccdb1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_222771_length_1001_cov_0.117517	1001	0.5954045954045954	ec4e85bbd4fa43c6d2f7f6534e7a854b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

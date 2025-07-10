@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+filtered_contigs.plasmid	plasmid	AC633	AL902	NODE_2068_length_13437_cov_0.339331	13437	0.6134553843863958	24b2ee60def75fef33ab5efb5a9163a3	00246	EU333001	ISPve1	IS21	1092	1	1067	9269	10335	1073	plus	98.0	81.733	0.0	885

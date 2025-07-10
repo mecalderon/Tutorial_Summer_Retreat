@@ -1,0 +1,41 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+filtered_contigs.plasmid	chromosome	-	-	NODE_3007_length_10020_cov_0.641367	10020	0.4221556886227545	ad548e92e3e26edfabc6f15d74a6f101	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_3514_length_9007_cov_0.458801	9007	0.2399245031642056	1d25406d3325948068793d3355acd56a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_4056_length_8256_cov_0.178742	8256	0.3894137596899225	482ac52d108492a8ae3e876446ba2fac	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_4676_length_7493_cov_0.411279	7493	0.2658481249165888	4be06ee18cbe1b646d5ac395877d21b2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_4b9409efe91ed3d406c1ce04f787b9d1	-	NODE_5016_length_7163_cov_0.137316	7163	0.38601144771743684	fdcfd54f235d0c40eaa6c100600e9e18	not tested	-	-	MOBH	CP032092_00035	-	-	-	-	-	CP032092	0.0994698	Pseudoalteromonas donghaensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_5327_length_6847_cov_0.170273	6847	0.42339710822257925	7ab99c19919c13eb1597b09313014fad	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_5337_length_6842_cov_0.171437	6842	0.610494007600117	d24d268da34b6baf8ef49cd26f42bd12	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_5567_length_6670_cov_0.171055	6670	0.3338830584707646	efe53e6d67de51f2a64c2f0cba08ae70	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_7577_length_5490_cov_0.125209	5490	0.6018214936247723	7ef36537b65ffb2282d591b5db81e41c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_7714_length_5432_cov_0.212263	5432	0.4329896907216495	83f69b5028f3e69b3120d2b07afac365	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_10192_length_4583_cov_0.158564	4583	0.4302858389701069	7b7dadec2d6d4fe6b16b2a1c46f91aa3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_4b9409efe91ed3d406c1ce04f787b9d1	-	NODE_11834_length_4170_cov_0.130435	4170	0.3839328537170264	98fb23985c0a73930beb568d81d74866	not tested	-	-	-	-	-	-	-	-	-	CP032092	0.0994698	Pseudoalteromonas donghaensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_12215_length_4084_cov_0.138519	4084	0.5962291870714985	82410e746e36baea92b207bbb75cdd60	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_14111_length_3743_cov_0.086169	3743	0.41998397007747795	f5bea1bba863418f0d9e24f58b0294c0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_14624_length_3665_cov_0.122546	3665	0.5942701227830832	caf4900fe47ccb0fb088987b40af8f66	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_15338_length_3558_cov_0.148020	3558	0.5025295109612141	689afa26aac95ffa2043323c4af61f48	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_19714_length_3060_cov_0.985816	3060	0.5431372549019607	b22e5abccf3d5ead035e01fc0a4834b5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_4b9409efe91ed3d406c1ce04f787b9d1	-	NODE_20082_length_3026_cov_0.121968	3026	0.35194976867151356	b7bfc3de59abdb19942c0e6a1962d150	not tested	-	-	-	-	-	-	-	-	-	CP032092	0.0994698	Pseudoalteromonas donghaensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_23648_length_2746_cov_0.141670	2746	0.46212672978878366	822bd8f1be8788e239327b98aa021da4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_4b9409efe91ed3d406c1ce04f787b9d1	-	NODE_30161_length_2370_cov_0.126816	2370	0.3793248945147679	8dadd4edb57f75394b9a0480e5f6cbb5	not tested	-	-	-	-	-	-	-	-	-	CP032092	0.0994698	Pseudoalteromonas donghaensis	-	-	-
+filtered_contigs.plasmid	plasmid	novel_4b9409efe91ed3d406c1ce04f787b9d1	-	NODE_30851_length_2339_cov_0.153125	2339	0.42197520307823855	cc3d5f6543ac005fabcaadad131cc1da	not tested	-	-	-	-	-	-	-	-	-	CP032092	0.0994698	Pseudoalteromonas donghaensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_31602_length_2304_cov_0.609977	2304	0.4231770833333333	af22497340f819ca4a1eec8258ab3738	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_4b9409efe91ed3d406c1ce04f787b9d1	-	NODE_34453_length_2189_cov_0.128708	2189	0.36455002284148014	bd6225c5a1929953dacae6d2aaeec625	not tested	-	-	-	-	-	-	-	-	-	CP032092	0.0994698	Pseudoalteromonas donghaensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_42999_length_1915_cov_0.430617	1915	0.43342036553524804	165f7394c64c996387025111294e473c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_43019_length_1915_cov_0.090859	1915	0.38590078328981725	b73206b5048d928ee6ad68cc40ab9f45	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_44297_length_1882_cov_0.150869	1882	0.4197662061636557	6e23eac506f44a82b428d9ff1a52e2c3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_48054_length_1793_cov_1.967532	1793	0.48466257668711654	6e804b23b2f01efe2c7f1d9da028896c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_48234_length_1789_cov_0.641420	1789	0.4572386808272778	ff0d6b6fb77d00bbccfee2a5443d3cea	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_56618_length_1626_cov_0.101506	1626	0.43726937269372695	3ac52a5f6e76088d2bb08c010dc60993	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_65837_length_1487_cov_0.105187	1487	0.425689307330195	8b83f5c7538804a5299929360c57124c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_68126_length_1456_cov_0.711864	1456	0.46153846153846156	35f5de7b4c3939c8e0624bf81774f49e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_80842_length_1315_cov_0.135691	1315	0.4	a107eb18232e773dabcace1b127a0b4b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_4b9409efe91ed3d406c1ce04f787b9d1	-	NODE_81063_length_1313_cov_0.112026	1313	0.3632901751713633	0fd8c504d6e628dace0c4533422cc9b7	not tested	-	-	-	-	-	-	-	-	-	CP032092	0.0994698	Pseudoalteromonas donghaensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_84273_length_1282_cov_0.547760	1282	0.4664586583463339	baf6e44084388fbb22bfba9630d90138	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	novel_4b9409efe91ed3d406c1ce04f787b9d1	-	NODE_96768_length_1178_cov_0.148285	1178	0.3692699490662139	7e8bd262a8feeff3d712dcc00b812714	not tested	-	-	-	-	-	-	-	-	-	CP032092	0.0994698	Pseudoalteromonas donghaensis	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_101180_length_1146_cov_0.174785	1146	0.5785340314136126	a4d6a4a13128786c690d95acc18a04bb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_108805_length_1097_cov_0.200401	1097	0.463081130355515	9838a1c3099e59827597cc4f7d07e5ac	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_118558_length_1042_cov_0.104984	1042	0.5825335892514395	d0c1de2774cab28134e17fb2660501f2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_122097_length_1023_cov_0.194805	1023	0.4506353861192571	3faf407fba667ea46a30130ad1c3704a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_123067_length_1019_cov_0.064130	1019	0.5760549558390579	fd86a3006bad4392649504fc60215fdb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

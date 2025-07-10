@@ -1,0 +1,16 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+filtered_contigs.plasmid	chromosome	-	-	NODE_11_length_61472_cov_0.272530	61472	0.6094644716293597	6400b94d64c99dd27b693cdd30e7337a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_16_length_53107_cov_0.191141	53107	0.5840849605513397	da99d9debbf5ee7aa24451cd0be3492b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_28_length_41731_cov_0.174121	41731	0.6053054084493542	13d341742b21df1b5e989da61697bbc6	not tested	-	-	MOBQ	NC_008036_00003	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_33_length_40433_cov_0.432514	40433	0.6287438478470556	6451fe4d8d033c27ddbe08b7253fdd04	not tested	rep_cluster_1149	000427__GU811235_00024	MOBQ	NC_020542_00048	MPF_T	NC_020542_00042	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_40_length_35999_cov_0.192563	35999	0.5737381593933165	546044c09dea36b222c9db5c71824839	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_47_length_31068_cov_0.208628	31068	0.6091476760654049	d7207c2af3c04c11474ef3dd13fc6148	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0480354	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	plasmid	AD061	-	NODE_51_length_28312_cov_0.208131	28312	0.6177592540265612	663c7d689f6c8524483862d51a7c2568	not tested	-	-	-	-	-	-	-	-	-	CP015441	0.0480354	Erythrobacter atlanticus	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_80_length_20873_cov_0.252335	20873	0.6055670004311791	c4422c84a0dff149c67b6211d1b36ff5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_249_length_11014_cov_0.159322	11014	0.6629743962229889	99b8b50b6d22dcda219a66561b075f24	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_282_length_10426_cov_0.183112	10426	0.6063686936504892	21136f258568460136eb266db5775380	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_1671_length_4772_cov_0.275198	4772	0.48847443419949704	348317b480a3e04f49d19a4c5c61436f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_3215_length_3533_cov_0.661910	3533	0.4661760543447495	b2bcb45952e2b07454e2c40caba0b453	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_4960_length_2862_cov_0.179515	2862	0.48183088749126485	751db706ea25b384f0bda30e6221bc5d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_14888_length_1599_cov_0.110667	1599	0.575984990619137	81d97c8e7a737a9b2eced050a131f22e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+filtered_contigs.plasmid	chromosome	-	-	NODE_15807_length_1548_cov_0.164941	1548	0.46705426356589147	b2a252639c80bad4447fa5466d94e263	not tested	-	-	-	-	-	-	-	-	-	-	-	-	KX268685	ISVvu5	repetitve element
