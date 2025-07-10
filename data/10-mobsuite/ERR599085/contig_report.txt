@@ -1,7 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
-filtered_contigs.plasmid	chromosome	-	-	NODE_5958_length_2616_cov_0.078665	2616	0.3765290519877676	bbada146dd232c336a17f2c9fc7fd714	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-filtered_contigs.plasmid	chromosome	-	-	NODE_25039_length_1354_cov_0.074900	1354	0.6166912850812407	474d84f4770d3312df308f3ceb50942e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-filtered_contigs.plasmid	chromosome	-	-	NODE_26590_length_1316_cov_0.068200	1316	0.5843465045592705	c394dec87de705e13b61874e959ef0be	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-filtered_contigs.plasmid	chromosome	-	-	NODE_27389_length_1297_cov_0.064274	1297	0.6121819583654587	6c6f6cf0e6d3f24ba8043f146c394aee	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-filtered_contigs.plasmid	chromosome	-	-	NODE_34844_length_1153_cov_0.055977	1153	0.5429314830875975	e2503ac13f72e5a7e2c15125f739fc19	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-filtered_contigs.plasmid	chromosome	-	-	NODE_37804_length_1109_cov_0.045545	1109	0.45175834084761046	2f3e47312ed6477ff766f21ead61274e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	KX268685	ISVvu5	repetitve element

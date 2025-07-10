@@ -1,2 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-filtered_contigs.plasmid	chromosome			NODE_100_length_43719_cov_0.218524	43719	0.5468789313570759	293a7073dc527e2900cc9bc8e185b9c1	01379	CP022426	ISPa38	Tn3	3400	1	3400	29549	32948						

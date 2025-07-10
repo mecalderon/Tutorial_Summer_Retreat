@@ -1,2 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-filtered_contigs.plasmid	plasmid	AD642	AN262	NODE_67_length_8069_cov_3.077415	8069	0.36200272648407483	25e1e9631bcf74e659d7580e9a31a083	01364	CP012956	ISAba32	ISNCY	1482	1	1482	1042	2523	1482	plus	100.0	90.148	0.0	1929

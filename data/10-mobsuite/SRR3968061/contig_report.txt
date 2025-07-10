@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
-filtered_contigs.plasmid	chromosome	-	-	NODE_174_length_7946_cov_6.033261	7946	0.3911401963251951	b8272cdc3aa1a13e6999910fc17bb2c2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-filtered_contigs.plasmid	chromosome	-	-	NODE_5549_length_1506_cov_1.756930	1506	0.4389110225763612	692ea154188c7c904d9a386e0d2a2601	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

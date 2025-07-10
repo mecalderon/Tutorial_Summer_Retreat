@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_021817|MOB_unknown	NODE_40513_length_1045_cov_0.079281	280	1045	4	280	283	559	277	11	96.029	99.0	99.0	minus	1.8999999999999996e-129	451	oriT

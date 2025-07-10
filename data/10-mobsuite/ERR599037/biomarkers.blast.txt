@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP032092_00035|MOBH	NODE_5016_length_7163_cov_0.137316	747	7163	1	747	3587	5827	747	10	98.661	100.0	100.0	minus	0.0	1415	relaxase

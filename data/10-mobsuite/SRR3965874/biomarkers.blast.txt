@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000520__CP010352_00002|rep_cluster_1223	NODE_1972_length_2856_cov_1.230686	939	2856	16	939	520	1443	926	114	87.257	98.0	98.0	minus	0.0	1053	replicon
-NC_008042_00056|MPF_T	NODE_6383_length_1788_cov_1.184725	359	1788	1	359	430	1506	359	56	84.40100000000002	100.0	100.0	plus	2.8099999999999986e-177	499	mate-pair-formation

@@ -1,2 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-filtered_contigs.plasmid	chromosome			NODE_3288_length_6455_cov_0.138924	6455	0.5995352439969016	98c4c91286c0d7d7823d3b2e37f700ff	00910	CP023316	ISPpu18	IS5	1192	7	1192	356	1539						
